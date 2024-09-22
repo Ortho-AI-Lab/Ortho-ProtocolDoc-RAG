@@ -19,39 +19,7 @@ from ..utils.constants import PACKAGE_DIR
 nest_asyncio.apply()
 
 
-PARSING_INSTRUCTION = """You are an expert medical document parser specializing in orthopedic surgical 
-techniques. Your task is to analyze surgical technique documents for various orthopedic 
-implant systems and extract key information in a structured format. 
-Focus on the following elements:
-
-Implant system name and manufacturer
-Indications and contraindications
-Key components of the implant system
-Surgical steps in chronological order
-Important surgical tips or warnings
-Required instruments and their functions
-Implant sizing and configuration options
-Post-operative care instructions
-
-For each element, provide:
-
-A brief summary of the key points
-Relevant page/figure numbers for reference
-Direct quotes for critical information
-
-Present the extracted information in a clear, organized manner using appropriate 
-headers and bullet points. If certain information is not explicitly stated, 
-note that it is not provided in the document. Your goal is to create a comprehensive 
-yet concise overview of the surgical technique that could be quickly referenced by a 
-surgeon or medical professional. 
-Maintain clinical accuracy while summarizing complex procedures.
-Begin your analysis with the first document. 
-If you're ready to proceed, please respond with "Ready to begin parsing."
-"""
-
-
 multimodal_parser = LlamaParse(
-    # parsing_instruction=PARSING_INSTRUCTION,
     use_vendor_multimodal_model=True,
     vendor_multimodal_model_name="openai-gpt4o",
     vendor_multimodal_api_key=find_key("openai"),
@@ -64,22 +32,13 @@ documents = reader.load_data()
 index = VectorStoreIndex.from_documents(documents=documents)
 
 retriever = index.as_retriever(retrieve_image_nodes=True)
-QA_PROMPT = """
-You are an AI assistant tasked with answering questions based on the given context. 
-Please follow these guidelines:
-1. Carefully read the question and the provided context.
-2. Answer the question using only the information from the context.
-3. If the answer is not in the context, 
-say 'I don't have enough information to answer that question.'
-4. Keep your answers concise and to the point.
-5. If appropriate, use bullet points or numbered lists for clarity.
-
-Context: {context_str}
-
-Question: {query_str}
-
-Answer: 
-"""
+QA_PROMPT = PromptTemplate(
+    "We have provided context information below. \n"
+    "---------------------\n"
+    "{context_str}"
+    "\n---------------------\n"
+    "Given this information, please answer the question: {query_str}\n"
+)
 
 
 class MultimodalQueryEngine(CustomQueryEngine):
@@ -123,8 +82,14 @@ class MultimodalQueryEngine(CustomQueryEngine):
 
 query_engine = index.as_query_engine(similarity_top_k=3)
 
+multimodal_query_engine = MultimodalQueryEngine(
+    retriever=retriever, multi_modal_llm=OpenAIMultiModal(
+        model="gpt-4o", api_key=find_key("openai")
+    )
+)
+
 query_engine_tool = QueryEngineTool(
-    query_engine=query_engine,
+    query_engine=multimodal_query_engine,
     metadata=ToolMetadata(
         name="query_engine",
         description="A query engine that retrieves and "
