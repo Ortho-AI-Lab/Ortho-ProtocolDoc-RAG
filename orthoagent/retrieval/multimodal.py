@@ -83,9 +83,8 @@ class MultimodalQueryEngine(CustomQueryEngine):
 query_engine = index.as_query_engine(similarity_top_k=3)
 
 multimodal_query_engine = MultimodalQueryEngine(
-    retriever=retriever, multi_modal_llm=OpenAIMultiModal(
-        model="gpt-4o", api_key=find_key("openai")
-    )
+    retriever=retriever,
+    multi_modal_llm=OpenAIMultiModal(model="gpt-4o", api_key=find_key("openai")),
 )
 
 query_engine_tool = QueryEngineTool(

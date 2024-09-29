@@ -24,8 +24,8 @@ def find_key(api_type: Literal["openai", "llamacloud"]) -> str:
 
     elif api_type == "llamacloud":
         api_key = (
-            str(os.getenv("LLAMA_INDEX_API_KEY"))
-            if os.getenv("LLAMA_INDEX_API_KEY")
+            str(os.getenv("LLAMA_CLOUD_API_KEY"))
+            if os.getenv("LLAMA_CLOUD_API_KEY")
             else None
         )
         if api_key == "..." or api_key is None:
