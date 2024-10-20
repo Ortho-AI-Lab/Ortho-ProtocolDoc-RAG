@@ -1,0 +1,628 @@
+QUESTION-ANSWER PAIR 1
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: How long is the distal femoral component?
+
+ANSWER:
+The length of the distal femoral component varies based on the specific component used. The minimum distal femoral resection level is:
+
+- 80 mm for the X-small distal femoral replacement component.
+- 70 mm for the XX-small distal femoral replacement component.
+
+These minimum resection levels include the lengths of the distal femoral replacement components (50 mm and 60 mm) plus a 20 mm stem component collar height. Additionally, segmental components are available in 5 mm increments, with the shortest segment being 25 mm, leading to a next resection level of 105 mm.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 2
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: Is there a press fit or cementless option?
+
+ANSWER:
+Yes, there is a cementless option available for the Depuy Orthogenesis LPS system. The system includes a porous-coated straight stem extension that can be used for press-fit applications. When using a cementless application, it is advised to underream by 0.5 mm for press-fit application of the straight stems. However, it is important to note that a cementless application should not be used in patients with marked osteopenia or those at risk for intraoperative fractures. 
+
+In addition to the cementless option, there is also a cemented stem application commonly used, especially in oncology cases.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 3
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: How do you check rotation?
+
+ANSWER:
+To check rotation during the procedure, follow these steps:
+
+1. **Use the Trial Construct**: Begin by using the trial construct to mark the proper rotational orientation of the components.
+
+2. **Establish Rotational Alignment**: Center the anti-rotation slot (tab) on the anterior aspect of the femur and mark the femur both proximally and distally. These marks will serve as alignment guides on either side of the femur when inserting the stems.
+
+3. **Align the Components**: Ensure that the limb is in the correct rotation after the components are coupled together through the intercalary segmental component.
+
+4. **Utilize an Alignment Rod**: An alignment rod can be used to aid in setting the final component position. Align the rod with the previously established markings to confirm that the desired tibial rotation is maintained.
+
+5. **Adjust if Necessary**: If the alignment rod does not line up with the anterior marking, reduce the rotation until it does.
+
+By following these steps, you can effectively check and ensure the correct rotational alignment of the components during the procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 4
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What is the shortest construct I can use?
+
+ANSWER:
+The shortest construct you can use with the Depuy Orthogenesis LPS system depends on the specific components involved:
+
+1. **Distal Femoral Replacement**: The minimum distal femoral resection level is 70 mm when using the XX-small distal femoral replacement component. This includes the component lengths and the stem collar height. The next resection level would be 105 mm, which includes the shortest segmental component of 25 mm.
+
+2. **Proximal Tibial Replacement**: The minimum proximal tibial resection level is 105 mm, which includes a 73 mm proximal tibial replacement component, a 12 mm hinged insert bearing, and a 20 mm stem collar height. The next level of resection would be 130 mm.
+
+3. **Intercalary Femoral Replacement**: The minimum intercalary femoral resection amount is 95 mm, which includes a 55 mm intercalary segment component length and two 20 mm stem collar heights. The next level of resection would be 120 mm.
+
+In summary, the shortest construct you can use varies based on the specific application, but the minimum resection levels are 70 mm for distal femoral replacement, 105 mm for proximal tibial replacement, and 95 mm for intercalary femoral replacement.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 5
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What degree do I cut the tibia in?
+
+ANSWER:
+The specific angle at which to cut the tibia is not explicitly stated in the retrieved information. However, it is important to align the cutting guide to be parallel with the tibia and to secure adjustments using locking screws. 
+
+Surgeons can use a tibial cutting guide to ensure that the cut is made accurately. The reference cutting face should be adjusted to match the depth indicated in the operation drawing, and the tibial plateau should be trimmed in line with the plane of the reference cutting face.
+
+For precise cutting angles, it is advisable to refer to the specific surgical protocol or guidelines provided in the Depuy Orthogenesis LPS reference document, as the angle may vary based on the surgical approach and the specific components being used.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 6
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What are the poly sizes?
+
+ANSWER:
+The poly sizes available in the Depuy Orthogenesis LPS system include various diameters and lengths for both cemented and porous stems. Here are the details:
+
+### Cemented Stems (Straight)
+- 10 mm diameter x 100 mm length
+- 11 mm diameter x 100 mm length
+- 12 mm diameter x 100 mm length
+- 12 mm diameter x 125 mm length
+- 13 mm diameter x 125 mm length
+- 14 mm diameter x 125 mm length
+- 15 mm diameter x 125 mm length
+- 16 mm diameter x 125 mm length
+- 17 mm diameter x 125 mm length
+
+### Cemented Stems (Bowed)
+- 11 mm diameter x 150 mm length
+- 12 mm diameter x 150 mm length
+- 13 mm diameter x 150 mm length
+- 14 mm diameter x 150 mm length
+- 15 mm diameter x 150 mm length
+- 16 mm diameter x 150 mm length
+- 17 mm diameter x 150 mm length
+- 11 mm diameter x 200 mm length
+- 13 mm diameter x 200 mm length
+- 15 mm diameter x 200 mm length
+- 17 mm diameter x 200 mm length
+
+### Porous Stems (Straight)
+- 11.5 mm diameter x 100 mm length
+- 12.5 mm diameter x 100 mm length
+- 13.5 mm diameter x 100 mm length
+- 13.5 mm diameter x 125 mm length
+- 14.5 mm diameter x 125 mm length
+- 15.5 mm diameter x 125 mm length
+- 16.5 mm diameter x 125 mm length
+- 17.5 mm diameter x 125 mm length
+- 18.5 mm diameter x 125 mm length
+
+### Porous Stems (Bowed)
+- 12.5 mm diameter x 150 mm length
+- 13.5 mm diameter x 150 mm length
+- 14.5 mm diameter x 150 mm length
+- 15.5 mm diameter x 150 mm length
+- 16.5 mm diameter x 150 mm length
+- 17.5 mm diameter x 150 mm length
+- 18.5 mm diameter x 150 mm length
+- 12.5 mm diameter x 200 mm length
+- 14.5 mm diameter x 200 mm length
+- 16.5 mm diameter x 200 mm length
+- 18.5 mm diameter x 200 mm length
+
+These sizes provide a range of options for surgeons to select based on the specific needs of the patient and the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 7
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What is the minimum stem diameter?
+
+ANSWER:
+The minimum stem diameter available in the Depuy Orthogenesis LPS system is **10 mm**. This diameter is part of the cemented stems (straight) and is specified for a length of 100 mm. Other diameters available include 11 mm, 12 mm, and larger sizes, but 10 mm is the smallest option provided.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 8
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What are the body segment lengths?
+
+ANSWER:
+The body segment lengths available in the Depuy Orthogenesis LPS system include various segmental components that can be used to restore leg length. Here are the details:
+
+### Segmental Component Lengths
+- **Minimum Segmental Component Length**: 25 mm
+- **Available Lengths**: 
+  - 30 mm
+  - 35 mm
+  - 40 mm
+  - 45 mm
+  - 50 mm
+  - 55 mm
+  - 60 mm
+  - 65 mm
+  - 70 mm
+  - 75 mm
+  - 80 mm
+  - 85 mm
+  - 90 mm
+  - 95 mm
+  - 100 mm
+  - 105 mm
+  - 110 mm
+  - 115 mm
+  - 120 mm
+  - 125 mm
+  - 130 mm
+  - 135 mm
+  - 140 mm
+  - 145 mm
+  - 150 mm
+  - 155 mm
+  - 160 mm
+  - 165 mm
+  - 170 mm
+  - 175 mm
+  - 180 mm
+  - 190 mm
+  - 195 mm
+  - 200 mm
+  - 205 mm
+  - 210 mm
+  - 215 mm
+  - 220 mm
+  - 225 mm
+  - 230 mm
+  - 235 mm
+  - 240 mm
+  - 245 mm
+  - 250 mm
+
+These segmental components can be combined in various ways to adjust for resection length differences and restore leg lengths as needed. The increments available are typically in 5 mm.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 9
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What is the maximum stem diameter?
+
+ANSWER:
+The maximum stem diameter available in the Depuy Orthogenesis LPS system is **18.5 mm**. This diameter is part of the porous stems (straight) and is specified for a length of 125 mm. Other larger diameters are also available, but 18.5 mm is the largest option provided in the retrieved information.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 10
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What are cone sizes?
+
+ANSWER:
+The tibial cone sizes available in the Depuy Orthogenesis LPS system are as follows:
+
+### Tibial Cone Sizes
+- **Cone A**
+  - Distal Diameter (OD): 23 mm
+  - Max Stem Diameter (ID): 19 mm
+  - Compatible with: Size 1 and Size 2 baseplates
+
+- **Cone B**
+  - Distal Diameter (OD): 25 mm
+  - Max Stem Diameter (ID): 21 mm
+  - Compatible with: Size 3, Size 4, Size 5, Size 6, Size 7 baseplates
+
+- **Cone C**
+  - Distal Diameter (OD): 25 mm
+  - Max Stem Diameter (ID): 21 mm
+  - Compatible with: Size 3, Size 4, Size 5, Size 6, Size 7 baseplates
+
+- **Cone D**
+  - Distal Diameter (OD): 25 mm
+  - Max Stem Diameter (ID): 21 mm
+  - Compatible with: Size 3, Size 4, Size 5, Size 6, Size 7 baseplates
+
+- **Cone E**
+  - Distal Diameter (OD): 25 mm
+  - Max Stem Diameter (ID): 21 mm
+  - Compatible with: Size 3, Size 4, Size 5, Size 6, Size 7 baseplates
+
+### Additional Notes
+- Cones B, C, D, and E also have an asymmetric lobed option.
+- Cones smaller than those marked with an X are compatible but need to be positioned at least 5 mm deeper.
+- Cone A (Symmetric) is not intended for use with the Revision Baseplate.
+
+These sizes allow for compatibility with various tibial baseplates and provide options for addressing different bone defects.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 11
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What are the augment sizes on the tibia?
+
+ANSWER:
+The tibial augment sizes available in the Depuy Orthogenesis LPS system include the following:
+
+### Tibial Augment Sizes
+- **Size 4**: 
+  - LM/RL - 10 mm
+- **Size 5**: 
+  - RM/LL - 10 mm (Part Number: 5546-T-502)
+  - LM/RL - 10 mm (Part Number: 5546-T-501)
+- **Size 6**: 
+  - RM/LL - 10 mm (Part Number: 5546-T-602)
+  - LM/RL - 10 mm (Part Number: 5546-T-601)
+- **Size 7**: 
+  - RM/LL - 10 mm (Part Number: 5546-T-702)
+  - LM/RL - 10 mm (Part Number: 5546-T-701)
+- **Size 8**: 
+  - RM/LL - 10 mm (Part Number: 5546-T-802)
+  - LM/RL - 10 mm (Part Number: 5546-T-801)
+
+These augment sizes are designed to be used in conjunction with the tibial baseplates and can help in addressing various bone defects during surgical procedures.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 12
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What’s the minimum total distal femur resection?
+
+ANSWER:
+The minimum total distal femur resection levels in the Depuy Orthogenesis LPS system are as follows:
+
+- **80 mm** when using the X-small distal femoral replacement component.
+- **70 mm** when using the XX-small distal femoral replacement component.
+
+These minimum resection levels include the lengths of the distal femoral replacement components (50 mm and 60 mm) plus a 20 mm stem component collar height. If additional replacement length is needed, the next resection level would be **105 mm**, which includes the shortest segmental component of 25 mm.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 13
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: Is there a non-nickel containing option?
+
+ANSWER:
+The retrieved information does not explicitly mention a non-nickel containing option within the Depuy Orthogenesis LPS system. For specific details regarding materials and the availability of non-nickel options, it is advisable to consult the product specifications or contact the manufacturer directly, as they may provide specific information about the materials used in their implants and any alternatives available for patients with nickel allergies.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 14
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What is the tibial boss length and diameter?
+
+ANSWER:
+The retrieved information does not provide specific details about the length and diameter of the tibial boss. For precise measurements regarding the tibial boss length and diameter, it is recommended to consult the specific product specifications or surgical protocols provided by Depuy Orthogenesis or to refer to the LPS Design Guide, as these documents typically contain detailed information about implant dimensions.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 15
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What is the minimum reamer I have to use on the femur and tibia?
+
+ANSWER:
+The minimum reamer sizes for the femur and tibia in the Depuy Orthogenesis LPS system are as follows:
+
+### Femur
+- The minimum reamer size for the femur is **8 mm**. This is the starting size for the intramedullary canal preparation, and reaming should progress to larger diameters as needed to accommodate the selected stem size.
+
+### Tibia
+- The minimum reamer size for the tibia is also **8 mm**. The preparation begins with the smallest diameter flexible reamer, and reaming is done in increments until the desired diameter is achieved.
+
+In both cases, the reaming process should ensure that the canal is adequately prepared for the selected stem size, allowing for proper seating and stability of the implant.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 16
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: Is there a distal femur resection guide for measurement?
+
+ANSWER:
+Yes, there is a distal femur resection guide for measurement in the Depuy Orthogenesis LPS system. The **Distal Femoral Template** is specifically designed to guide the resection to a reproducible level that corresponds with the available implants. 
+
+### Key Features of the Distal Femoral Template:
+- **Placement**: The template is placed on the bone so that its silhouette aligns with the distal condyles of the femur.
+- **Marking**: The anterior cortex of the femur is marked to indicate the resection level, which is determined based on whether the stem being used has an extra-cortical porous-coated body section.
+- **Measurement**: It is important to measure the distance from the natural joint line to the marked resection level to ensure proper leg length restoration and patellar tracking.
+
+### Additional Tips:
+- Horizontal lines can be marked on the femur above and below the anticipated resection levels to aid in leg length measurement.
+- Vertical lines can also be marked to indicate the femur’s anterior surface for proper rotational alignment of the prosthesis.
+
+This guide helps ensure accurate and consistent resection levels during surgery.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 17
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What is the valgus angle of the distal femoral cut?
+
+ANSWER:
+The retrieved information does not specify the exact valgus angle of the distal femoral cut in the Depuy Orthogenesis LPS reference document. For precise details regarding the valgus angle, it is recommended to consult the specific surgical protocol or guidelines provided in the document, as these typically contain detailed information about the angles and techniques used during the procedure. 
+
+If you have access to the full document, look for sections related to distal femoral preparation or alignment, as they may provide the necessary specifications regarding the valgus angle.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 18
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: If the knee is too loose in flexion and extension, what are the steps we evaluate to change the construct?
+
+ANSWER:
+If the knee is too loose in flexion and extension, the following steps should be evaluated to change the construct:
+
+1. **Evaluate Soft Tissue Tension**: 
+   - Place the knee in extension and assess the soft tissue tension. This will help determine if the looseness is due to inadequate tension in the surrounding soft tissues.
+
+2. **Check Leg Length**: 
+   - Compare the medial malleoli to check for leg length discrepancies. If the leg length is slightly long, it may contribute to the looseness.
+
+3. **Adjust Femoral Head**: 
+   - If the soft tissues are loose and the femoral offset is inadequate, consider using a longer femoral head to improve stability.
+
+4. **Use Shorter Trial Femoral Head**: 
+   - If the soft tissues are tight and the leg length is long, but the femoral offset is acceptable, try using a shorter trial femoral head.
+
+5. **Adjust Segmental Trials**: 
+   - If the segmental trials are at the minimum length of 25 mm and the leg length is still long, consider recutting the femoral osteotomy to adjust for the leg length discrepancy.
+
+6. **Re-ream the Femur**: 
+   - If the femoral cut is revised, re-ream the femur distally and finish the osteotomized surface with a calcar planer/bevel reamer to ensure proper fit and avoid intraoperative fractures.
+
+7. **Assess Femoral Anteversion**: 
+   - Use the trial construct to assess proper femoral anteversion. Rotate the entire construct within the femur to achieve the required femoral anteversion (usually 10-15 degrees).
+
+8. **Test Soft Tissue Tension**: 
+   - A practical test for excessive soft tissue tension is to extend the hip and try flexing the knee. If the hip flexes when the knee flexes, it may indicate excessive soft tissue tension.
+
+By following these steps, adjustments can be made to improve the stability of the knee construct.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 19
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: If the knee is too tight in flexion and extension, what are the steps we evaluate to change the construct?
+
+ANSWER:
+If the knee is too tight in flexion and extension, the following steps should be evaluated to change the construct:
+
+1. **Evaluate Soft Tissue Tension**: 
+   - Place the knee in extension and assess the soft tissue tension. This will help determine if the tightness is due to excessive tension in the surrounding soft tissues.
+
+2. **Check Leg Length**: 
+   - Compare the medial malleoli to check for leg length discrepancies. If the leg length is slightly long, it may contribute to the tightness.
+
+3. **Use a Shorter Trial Femoral Head**: 
+   - If the soft tissues are tight and the leg length is long, consider using a shorter trial femoral head to reduce the overall height and tension.
+
+4. **Adjust Segmental Trials**: 
+   - If the segmental trials used are at the minimum length of 25 mm and the leg length is still long, consider recutting the femoral osteotomy to adjust for the leg length discrepancy.
+
+5. **Re-ream the Femur**: 
+   - If the femoral cut is revised, re-ream the femur distally and finish the osteotomized surface with a calcar planer/bevel reamer to ensure proper fit and avoid intraoperative fractures.
+
+6. **Assess Femoral Offset**: 
+   - If the femoral offset is excessive, try reducing the vertical height/leg length by adjusting the segmental trials.
+
+7. **Test Soft Tissue Tension**: 
+   - A practical test for excessive soft tissue tension is to extend the hip and try flexing the knee. If the hip flexes when the knee flexes, it may indicate excessive soft tissue tension.
+
+8. **Check for Proper Rotational Alignment**: 
+   - Use the trial construct to assess proper femoral anteversion. Rotate the entire construct within the femur to achieve the required femoral anteversion (usually 10-15 degrees).
+
+By following these steps, adjustments can be made to alleviate tightness in the knee construct.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 20
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: If the patella is laterally dislocating, what can be done to modify this?
+
+ANSWER:
+If the patella is laterally dislocating, the following modifications can be considered to address the issue:
+
+1. **Evaluate Soft Tissue Tension**: 
+   - Assess the soft tissue tension around the knee joint. Ensure that the soft tissues are not excessively tight, which can contribute to lateral dislocation.
+
+2. **Adjust Femoral Component Position**: 
+   - Ensure that the femoral component is properly aligned. If the component is positioned too laterally, it may contribute to patellar instability. Adjusting the position of the femoral component may help in realigning the patella.
+
+3. **Use a Medialized Patellar Component**: 
+   - Consider using a patellar component that is designed to be more medialized. This can help in improving the tracking of the patella and reducing the tendency for lateral dislocation.
+
+4. **Resurface the Patella**: 
+   - Resurface the patella using a dome patella replacement component, such as the S-ROM or Sigma dome patella component. This can help in providing a better surface for patellar tracking.
+
+5. **Reattach Soft Tissues**: 
+   - If necessary, reattach the vastus lateralis and other relevant soft tissues to improve stability and alignment of the patella.
+
+6. **Check for Adequate Soft Tissue Integrity**: 
+   - Ensure that the soft tissue integrity around the knee is adequate. If there is grossly inadequate soft tissue support, consider using a knee brace postoperatively to limit flexion and provide additional support.
+
+7. **Postoperative Care**: 
+   - Individualize postoperative care to ensure proper healing and alignment. Monitor the knee for any signs of instability and adjust rehabilitation protocols as necessary.
+
+By following these steps, modifications can be made to help stabilize the patella and prevent lateral dislocation.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 21
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: If I can’t get diaphyseal fixation, what are the options?
+
+ANSWER:
+If diaphyseal fixation cannot be achieved, the following options may be considered based on the Depuy Orthogenesis LPS reference document:
+
+1. **Use of Extra-Cortical Plates**: 
+   - If the femoral component has an extra-cortical plate incorporated into the shaft, this can provide additional stability and support. Implant-grade titanium alloy screws can be used in the screw holes of the plate to enhance fixation.
+
+2. **Cemented Stem Application**: 
+   - If diaphyseal fixation is not possible, consider using a cemented stem. This involves ensuring that the cement does not adhere to the hydroxyapatite (HA) coated collar to promote proper bony ingrowth.
+
+3. **Lock Pin Insertion**: 
+   - Utilize a polyethylene lock pin to secure the components. Ensure that the lock pin is fully engaged through the yoke opening. If there is difficulty inserting the lock pin, it may be lightly tapped to engage it properly.
+
+4. **Passive Fixed Hinged Tibia Option**: 
+   - In cases where traditional fixation methods are inadequate, consider using a passive fixed hinged tibia option, which may provide stability without relying on diaphyseal fixation.
+
+5. **Consultation with Surgical Team**: 
+   - Collaborate with the surgical team to explore alternative fixation methods or devices that may be suitable for the specific anatomical and pathological conditions of the patient.
+
+By considering these options, you can address the challenges associated with achieving diaphyseal fixation during the procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 22
+
+QUESTION:
+Based on the Depuy Orthogenesis LPS reference document, answer this: What choices do we have for tibial fixation in the setting of metaphyseal bony defects?
+
+ANSWER:
+In the setting of metaphyseal bony defects, the following choices for tibial fixation are available based on the Depuy Orthogenesis LPS reference document:
+
+1. **Intramedullary Instrumentation**: 
+   - Use intramedullary instrumentation available with systems such as the Mobile Bearing Tibial (M.B.T.) revision knee system or the S-ROM® knee system. This approach allows for stable fixation within the medullary canal.
+
+2. **Extramedullary Instrumentation**: 
+   - Extramedullary instrumentation can also be utilized for tibial preparation, providing an alternative method for achieving proper alignment and fixation.
+
+3. **Hinged Tibial Insert Bearings**: 
+   - When using the S-ROM tibial tray, it is recommended to use the S-ROM hinged tibial insert bearing. For the M.B.T. revision tibial tray, the Orthogenesis LPS hinged tibial insert bearing should be used.
+
+4. **Cemented Fixation**: 
+   - In cases where metaphyseal defects are present, cemented fixation may be considered. It is important to ensure that no cement adheres to the hydroxyapatite (HA) coated collar to promote proper bony ingrowth.
+
+5. **Extra-Cortical Plates**: 
+   - If the femoral component has an extra-cortical plate incorporated into the shaft, implant-grade titanium alloy screws can be used in the screw holes to enhance fixation stability.
+
+6. **Resurfacing the Patella**: 
+   - In conjunction with tibial fixation, consider resurfacing the patella using a dome patella replacement component, such as the S-ROM or Sigma dome patella component, to ensure proper joint function.
+
+These options provide a range of strategies for achieving stable tibial fixation in the presence of metaphyseal bony defects.
+
+
+
+---------------------------------------------------
+
+
+

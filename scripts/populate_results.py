@@ -141,34 +141,57 @@ def answer_questions(agent: FunctionCallingAgent, questions: list[str]) -> list[
 
 
 if __name__ == "__main__":
-    questions = read_questions(analysis_path / "questions.txt")
+    
+    base_questions = read_questions(analysis_path / "questions.txt")
+
     llamaparse_agent = build_agent_with_llamaparse_retriever()
     naive_agent = build_agent_with_naive_retriever()
 
-    llamaparse_answers = answer_questions(llamaparse_agent, questions)
 
-    with open(analysis_path / "results" / "llamaparse_answers.txt", "w") as f:
-        for i, (question, answer) in enumerate(zip(questions, llamaparse_answers)):
-            f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
+    documents = [
+        "Depuy Orthogenesis LPS",
+        "Onkos Surgical",
+        "Zimmer Biomet OSS",
+        "Stryker"
+    ]
 
-            f.write("QUESTION:\n")
-            f.write(question + "\n\n")
 
-            f.write("ANSWER:\n")
-            f.write(answer + "\n\n\n\n")
+    for document in documents:
 
-            f.write("---------------------------------------------------\n\n\n\n")
+        document_wo_spaces = document.replace(" ", "_")
+        
+        results_dir = analysis_path / "results" / document_wo_spaces
+        results_dir.mkdir(parents=True, exist_ok=True)
 
-    naive_answers = answer_questions(naive_agent, questions)
+        question_prefix = f"Based on the {document} reference document, answer this: "
 
-    with open(analysis_path / "results" / "naive_answers.txt", "w") as f:
-        for i, (question, answer) in enumerate(zip(questions, naive_answers)):
-            f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
+        questions = [question_prefix + question for question in base_questions]
 
-            f.write("QUESTION:\n")
-            f.write(question + "\n\n")
 
-            f.write("ANSWER:\n")
-            f.write(answer + "\n\n\n\n")
+        llamaparse_answers = answer_questions(llamaparse_agent, questions)
 
-            f.write("---------------------------------------------------\n\n\n\n")
+        with open(results_dir / "llamaparse_answers.txt", "w") as f:
+            for i, (question, answer) in enumerate(zip(questions, llamaparse_answers)):
+                f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
+
+                f.write("QUESTION:\n")
+                f.write(question + "\n\n")
+
+                f.write("ANSWER:\n")
+                f.write(answer + "\n\n\n\n")
+
+                f.write("---------------------------------------------------\n\n\n\n")
+
+        naive_answers = answer_questions(naive_agent, questions)
+
+        with open(results_dir / "naive_answers.txt", "w") as f:
+            for i, (question, answer) in enumerate(zip(questions, naive_answers)):
+                f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
+
+                f.write("QUESTION:\n")
+                f.write(question + "\n\n")
+
+                f.write("ANSWER:\n")
+                f.write(answer + "\n\n\n\n")
+
+                f.write("---------------------------------------------------\n\n\n\n")
