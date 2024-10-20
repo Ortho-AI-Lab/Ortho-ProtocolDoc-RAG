@@ -1,12 +1,7 @@
-from llama_index.core.agent import (
-    FunctionCallingAgent,
-    FunctionCallingAgentWorker,
-    AgentRunner,
-)
-from llama_index.core.memory import BaseMemory
+from llama_index.core.agent import FunctionCallingAgent, ReActAgent
 from typing import Literal
 from pydantic import BaseModel, Field
-from llama_index.core.tools import FunctionTool
+from llama_index.core.tools import FunctionTool, QueryEngineTool
 from pathlib import Path
 import sys
 
@@ -21,22 +16,37 @@ from src.retrieval.populate_vector_store import (
 from src.llm.openai import build_chat_openai
 
 
-llamaparse_retriever = get_vector_store_llamaparse().as_retriever(similarity_top_k=3)
-naive_retriever = get_vector_store_naive().as_retriever(similarity_top_k=3)
+llamaparse_vector_store = get_vector_store_llamaparse()
+naive_vector_store = get_vector_store_naive()
 
 
-class NoMemory(BaseMemory):
-    def put(self, message):
-        pass
+llamaparse_query_engine = llamaparse_vector_store.as_query_engine()
+naive_query_engine = naive_vector_store.as_query_engine()
 
-    def get(self, prompt=None):
-        return []
 
-    def reset(self):
-        pass
+llamaparse_retriever = llamaparse_vector_store.as_retriever(similarity_top_k=3)
+naive_retriever = naive_vector_store.as_retriever(similarity_top_k=3)
 
 
 analysis_path = dir_path / "analysis"
+
+
+def build_query_engine_tool(type: Literal["llamaparse", "naive"]):
+    if type == "llamaparse":
+        query_engine_tool = QueryEngineTool.from_defaults(
+            query_engine=llamaparse_query_engine,
+            name="query_engine_tool",
+            description="A RAG engine for relevant medical documents.",
+        )
+    elif type == "naive":
+        query_engine_tool = QueryEngineTool.from_defaults(
+            query_engine=naive_query_engine,
+            name="query_engine_tool",
+            description="A RAG engine for relevant medical documents.",
+        )
+    else:
+        raise ValueError("Invalid type. Must be 'llamaparse' or 'naive'.")
+    return query_engine_tool
 
 
 def build_retriever_tool(type: Literal["llamaparse", "naive"]):
@@ -72,6 +82,7 @@ def build_retriever_tool(type: Literal["llamaparse", "naive"]):
             description="""Retrieves the top three most similar nodes from the 
             document. Returns the text of the nodes in the order they were
             retrieved.""",
+            fn_schema=_RetrieverInput,
         )
     elif type == "naive":
         retriever_tool = FunctionTool.from_defaults(
@@ -80,6 +91,7 @@ def build_retriever_tool(type: Literal["llamaparse", "naive"]):
             description="""Retrieves the top three most similar nodes from the 
             document. Returns the text of the nodes in the order they were
             retrieved.""",
+            fn_schema=_RetrieverInput,
         )
     else:
         raise ValueError("Invalid type. Must be 'llamaparse' or 'naive'.")
@@ -90,9 +102,73 @@ def build_agent_with_llamaparse_retriever():
     """Builds an agent that can retrieve the top three most similar nodes from the
     document and analyze them. Has no memory."""
     retriever_tool = build_retriever_tool("llamaparse")
-    agent = FunctionCallingAgent(
+    agent = FunctionCallingAgent.from_tools(
         tools=[retriever_tool],
         llm=build_chat_openai(),
-        memory=NoMemory(),
     )
     return agent
+
+
+def build_agent_with_naive_retriever():
+    """Builds an agent that can retrieve the top three most similar nodes from the
+    document and analyze them. Has no memory."""
+    retriever_tool = build_retriever_tool("naive")
+    agent = FunctionCallingAgent.from_tools(
+        tools=[retriever_tool], llm=build_chat_openai()
+    )
+    return agent
+
+
+def read_questions(questions_path: Path) -> list[str]:
+    """Reads questions from a file and returns a list of questions."""
+    with open(questions_path, "r") as f:
+        questions = f.readlines()
+    questions = [question.strip() for question in questions]
+    print("Read", len(questions), "questions from", questions_path)
+    return questions
+
+
+def answer_questions(agent: FunctionCallingAgent, questions: list[str]) -> list[str]:
+    """Answers a list of questions using the agent.
+    Returns a list of answers in the order the questions were asked.
+    """
+    answers = []
+    for i, question in enumerate(questions):
+        print("Answering question", i + 1, "of", len(questions))
+        answer = str(agent.chat(question))
+        answers.append(answer)
+    return answers
+
+
+if __name__ == "__main__":
+    questions = read_questions(analysis_path / "questions.txt")
+    llamaparse_agent = build_agent_with_llamaparse_retriever()
+    naive_agent = build_agent_with_naive_retriever()
+
+    llamaparse_answers = answer_questions(llamaparse_agent, questions)
+
+    with open(analysis_path / "results" / "llamaparse_answers.txt", "w") as f:
+        for i, (question, answer) in enumerate(zip(questions, llamaparse_answers)):
+            f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
+
+            f.write("QUESTION:\n")
+            f.write(question + "\n\n")
+
+            f.write("ANSWER:\n")
+            f.write(answer + "\n\n\n\n")
+
+            f.write("---------------------------------------------------\n\n\n\n")
+
+    naive_answers = answer_questions(naive_agent, questions)
+
+    with open(analysis_path / "results" / "naive_answers.txt", "w") as f:
+        for i, (question, answer) in enumerate(zip(questions, naive_answers)):
+            f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
+
+            f.write("QUESTION:\n")
+            f.write(question + "\n\n")
+
+            f.write("ANSWER:\n")
+            f.write(answer + "\n\n\n\n")
+
+            f.write("---------------------------------------------------\n\n\n\n")

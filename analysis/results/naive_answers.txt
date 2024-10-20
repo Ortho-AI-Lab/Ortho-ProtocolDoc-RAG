@@ -1,0 +1,345 @@
+QUESTION-ANSWER PAIR 1
+
+QUESTION:
+How long is the distal femoral component?
+
+ANSWER:
+The length of the distal femoral component can vary based on the specific type used. For example:
+
+- The minimum distal femoral resection level is **80 mm** when using the X-small distal femoral replacement component.
+- The minimum distal femoral resection is **70 mm** when the XX-small distal femoral replacement component is used.
+- The lengths of the components include **50 mm** and **60 mm** for the distal femoral replacement, plus a **20 mm** stem component collar height.
+
+Additionally, segmental components are available in increments of **5 mm**, with the shortest segment being **25 mm**, making the next resection level **105 mm**.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 2
+
+QUESTION:
+Is there a press fit or cementless option?
+
+ANSWER:
+Yes, there are options for press-fit or cementless distal femoral components. The press-fit stem can be used without cement, allowing for bony ingrowth into the implant. This is particularly relevant when using specific tibial trays, such as the S-ROM tibial tray, where only the cut tibia surface is cemented, while the stem itself is press-fit.
+
+Additionally, there are porous stems designed for press-fit insertion, which can be impacted into place to ensure stability and proper alignment without the use of cement.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 3
+
+QUESTION:
+How do you check rotation?
+
+ANSWER:
+To check the rotation of the distal femoral component during surgery, follow these steps:
+
+1. **Use Trial Components**: Assemble the trial components and insert them into the femur. This allows you to evaluate the fit and orientation of the components.
+
+2. **Assess Joint Line**: Compare the knee joint line to the opposite side to ensure proper height and alignment. The joint line is determined by the level of the femoral component.
+
+3. **Mark Orientation**: Once the proper orientation is established, use the anti-rotation slot (tab) on the trial component as a reference to mark the femur. This mark will serve as an alignment guide when inserting the final implant.
+
+4. **Evaluate Fit and Stability**: Use the trial construct to assess not only the rotational orientation but also the leg length, joint stability, soft tissue tension, and range of motion.
+
+5. **Adjust if Necessary**: If the trial components indicate that the rotation is not correct, adjustments can be made before finalizing the implant placement.
+
+By following these steps, you can ensure that the distal femoral component is properly aligned and oriented during the procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 4
+
+QUESTION:
+What is the shortest construct I can use?
+
+ANSWER:
+The shortest construct you can use for a distal femoral replacement is as follows:
+
+- For the **XX-small distal femoral replacement component**, the minimum distal femoral resection is **70 mm**.
+- For the **X-small distal femoral replacement component**, the minimum distal femoral resection level is **80 mm**.
+
+This includes the lengths of the distal femoral replacement components (which can be **50 mm** or **60 mm**) plus a **20 mm** stem component collar height. 
+
+Additionally, the shortest segmental component available is **25 mm**, which means the next resection level would be **105 mm** when considering segmental components.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 5
+
+QUESTION:
+What degree do I cut the tibia in?
+
+ANSWER:
+The specific angle for cutting the tibia during a distal femoral replacement is not explicitly stated in the retrieved information. However, it is generally important to ensure that the tibial cut is made at a level that aligns properly with the femoral component and maintains the joint line.
+
+In practice, the tibial cut is typically made at a **perpendicular angle** to the mechanical axis of the tibia, which helps in achieving proper alignment and stability of the implant. It is also crucial to use trial components to assess the fit and alignment before finalizing the cut.
+
+For precise surgical techniques, it is advisable to refer to specific surgical guidelines or protocols provided by the implant manufacturer or consult with experienced orthopedic surgeons.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 6
+
+QUESTION:
+What are the poly sizes?
+
+ANSWER:
+The retrieved information does not provide specific details on the polyethylene (poly) sizes for the distal femoral replacement components. However, in general, polyethylene components in knee arthroplasty can come in various thicknesses and sizes to accommodate different patient anatomies and surgical needs.
+
+Typically, polyethylene inserts are available in a range of thicknesses, often from around **6 mm to 12 mm** or more, depending on the design of the implant and the specific requirements of the procedure.
+
+For precise information on the available polyethylene sizes for a specific distal femoral replacement system, it is best to consult the manufacturer's product catalog or surgical technique guide.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 7
+
+QUESTION:
+What is the minimum stem diameter?
+
+ANSWER:
+The retrieved information does not specify the exact minimum stem diameter for the distal femoral replacement components. However, it is common for orthopedic implants to have a range of stem diameters to accommodate different patient anatomies.
+
+Typically, stem diameters can start from around **10 mm** and can go up to **20 mm** or more, depending on the specific implant system and design. For precise information regarding the minimum stem diameter for a specific distal femoral replacement system, it is best to consult the manufacturer's product catalog or surgical technique guide.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 8
+
+QUESTION:
+What are the body segment lengths?
+
+ANSWER:
+The body segment lengths for the distal femoral replacement components are as follows:
+
+1. **Minimum Distal Femoral Resection Levels**:
+   - **XX-small distal femoral replacement component**: Minimum resection level is **70 mm**.
+   - **X-small distal femoral replacement component**: Minimum resection level is **80 mm**.
+
+2. **Component Lengths**:
+   - The distal femoral replacement components can be **50 mm** or **60 mm** in length.
+   - The stem component collar height is **20 mm**.
+
+3. **Segmental Components**:
+   - The shortest segmental component available is **25 mm**.
+   - Segmental components are available in **5 mm increments**.
+
+4. **Intercalary Segment**:
+   - The minimum intercalary femoral resection amount is **95 mm**, which includes a **55 mm** intercalary segment component length plus two **20 mm** stem collar heights.
+   - If additional replacement length is needed, the next level of resection would be **120 mm**.
+
+These lengths allow for adjustments in leg length and fit during the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 9
+
+QUESTION:
+What is the maximum stem diameter?
+
+ANSWER:
+The retrieved information does not specify the exact maximum stem diameter for the distal femoral replacement components. However, based on typical orthopedic implant designs, stem diameters can range up to **20 mm** or more, depending on the specific implant system and design.
+
+For precise information regarding the maximum stem diameter for a specific distal femoral replacement system, it is best to consult the manufacturer's product catalog or surgical technique guide.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 10
+
+QUESTION:
+What are cone sizes?
+
+ANSWER:
+The retrieved information does not provide specific details on the sizes of cones used in distal femoral replacement. Typically, cone sizes in orthopedic implants can vary based on the design and intended use, often ranging from small to large diameters to accommodate different anatomical needs.
+
+For precise information regarding the available cone sizes for a specific distal femoral replacement system, it is best to consult the manufacturer's product catalog or surgical technique guide. This documentation usually includes detailed specifications for all components, including cones.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 11
+
+QUESTION:
+What are the augment sizes on the tibia?
+
+ANSWER:
+The augment sizes available for the tibia in distal femoral replacement procedures include:
+
+1. **Augment Resection Sizes**:
+   - **5 mm**
+   - **10 mm**
+   - **15 mm**
+
+These sizes can be used for distal augment resections during the surgical procedure. The specific cutting slots on the Revision Distal Resection Guide allow for these augment resections to be made accurately.
+
+For precise details on the specific augment sizes and their applications, it is advisable to consult the manufacturer's product catalog or surgical technique guide.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 12
+
+QUESTION:
+What’s the minimum total distal femur resection?
+
+ANSWER:
+The minimum total distal femur resection levels are as follows:
+
+1. **XX-small distal femoral replacement component**: The minimum distal femoral resection level is **70 mm**.
+2. **X-small distal femoral replacement component**: The minimum distal femoral resection level is **80 mm**.
+
+These minimum resection levels include the lengths of the distal femoral replacement components (which can be **50 mm** or **60 mm**) plus a **20 mm** stem component collar height. 
+
+If additional replacement length is needed, the shortest segmental component available is **25 mm**, making the next resection level **105 mm**.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 13
+
+QUESTION:
+Is there a non-nickel containing option?
+
+ANSWER:
+The retrieved information does not explicitly mention a non-nickel containing option for the distal femoral replacement components. However, many orthopedic implant systems are designed to offer alternatives for patients with metal allergies, including nickel-free options.
+
+For specific details regarding non-nickel containing options, it is best to consult the manufacturer's product catalog or surgical technique guide, as they may provide information on materials used in their implants, including any available nickel-free alternatives. Additionally, discussing with the surgical team or orthopedic specialist can help identify suitable options based on individual patient needs.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 14
+
+QUESTION:
+What is the tibial boss length and diameter?
+
+ANSWER:
+The retrieved information does not provide specific details about the tibial boss length and diameter for the distal femoral replacement components. However, it does mention the following related to tibial components:
+
+- The minimum proximal tibial resection level is **105 mm**, which includes:
+  - A **73 mm** proximal tibial replacement component length.
+  - A **12 mm** hinged insert-bearing.
+  - A **20 mm** stem component collar height.
+
+For precise information regarding the tibial boss length and diameter, it is best to consult the manufacturer's product catalog or surgical technique guide, as they typically include detailed specifications for all components, including the tibial boss.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 15
+
+QUESTION:
+What is the minimum reamer I have to use on the femur and tibia?
+
+ANSWER:
+The minimum reamer sizes for the femur and tibia in distal femoral replacement procedures are as follows:
+
+1. **Tibia**:
+   - Begin with the smallest diameter flexible reamer and ream in **0.5 mm increments** until light cortical chatter is achieved. 
+   - For example, if using a **13 mm flexible reamer**, the corresponding trial stem would also be **13 mm**, and the porous stem (implant) would be **13.5 mm**.
+
+2. **Femur**:
+   - The specific minimum reamer size for the femur is not explicitly stated in the retrieved information. However, it is important to select a reamer that matches the diameter of the final implant stem to ensure proper fit and stability.
+
+For precise reamer sizes and recommendations, it is advisable to consult the manufacturer's product catalog or surgical technique guide, as they typically provide detailed specifications for all instruments used in the procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 16
+
+QUESTION:
+Is there a distal femur resection guide for measurement?
+
+ANSWER:
+Yes, there is a distal femur resection guide designed for measurement. The **Distal Femoral Template** is used to guide the resection to a level that can be reproduced by the available implants. Here are the key points regarding its use:
+
+1. **Placement**: The template is placed on the bone so that its silhouette coincides with the distal condyles of the femur.
+
+2. **Marking**: The anterior cortex of the femur is marked with a bovie or similar device to indicate the resection level. 
+
+3. **Measurement**: It is important to ensure proper patellar tracking and to consider the length of the femoral resection in relation to the tibial resection to recreate leg length.
+
+4. **Reference Measurements**: A reference measurement can be established across the joint by marking the femur and tibia before resection. This allows for checking the distance after the resection is made.
+
+5. **Additional Markings**: Horizontal lines can be marked on the femur above and below the proposed resection levels to assist in leg length measurement.
+
+This guide helps ensure accurate and reproducible measurements during the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 17
+
+QUESTION:
+What is the valgus angle of the distal femoral cut?
+
+ANSWER:
+The retrieved information does not specify the exact valgus angle for the distal femoral cut. However, in general orthopedic practice, the valgus angle for the distal femoral cut is typically around **5 to 7 degrees**. This angle is important for ensuring proper alignment and function of the knee joint after the implantation of a prosthesis.
+
+For precise measurements and recommendations regarding the valgus angle for a specific distal femoral replacement system, it is advisable to consult the manufacturer's surgical technique guide or product specifications.
+
+
+
+---------------------------------------------------
+
+
+
