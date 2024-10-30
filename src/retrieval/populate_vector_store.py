@@ -14,6 +14,22 @@ from ..utils.find_key import find_key
 from ..llm.openai import build_chat_openai
 
 
+stem_to_company = {
+    "DPY_LPS_Limb_Preservation_Sys_Surgtech_0612-36-500r2": "DePuy",
+    "Minimally-Invasive-Grower-Custom-Distal-Femoral-Surgical-Technique-Passive-Fixed-Hinge-Tibia": "Onkos",
+    "OSSSegmentalDistalFemoralReplacementSurgicalTechnique01462GLBLenREV0316": "Zimmer Biomet",
+    "THS_SP_1": "Stryker",
+}
+
+
+company_to_document_title = {
+    "DePuy": "Orthogenesis Limb Preservation System Surgical Techniques",
+    "Onkos": "Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option",
+    "Zimmer Biomet": "Segmental Distal Femoral Replacement Surgical Technique",
+    "Stryker": "Triathlon TS Femur and Revision Baseplate",
+}
+
+
 nest_asyncio.apply()
 
 
@@ -49,7 +65,7 @@ def populate_vector_store_llamaparse() -> VectorStoreIndex:
         api_key=find_key("llamacloud"),
         num_workers=4,
         language="en",
-        fast_mode=True,
+        result_type="markdown",
     )
 
     data_dir_path = DATA_DIR
@@ -62,16 +78,21 @@ def populate_vector_store_llamaparse() -> VectorStoreIndex:
     all_files = [str(f) for f in all_files]
 
     print(f"Parsing {len(all_files)} files with LlamaParse")
-    documents = parser.load_data(file_path=all_files)
 
-    print("Converting parsed document markdown to nodes")
-    node_parser = MarkdownElementNodeParser(llm=build_chat_openai(), num_workers=4)
-    nodes = node_parser.get_nodes_from_documents(documents=documents)
+    documents = []
+
+    for file in all_files:
+        print(f"  Parsing {file}")
+        documents_to_add = parser.load_data(file_path=file)
+        for document in documents_to_add:
+            company = stem_to_company[Path(file).stem]
+            document.metadata["company_name"] = str(company)
+            document.metadata["document_title"] = company_to_document_title[company]
+        documents.extend(documents_to_add)
+
     index = VectorStoreIndex.from_documents(
-        documents=[], storage_context=storage_context
+        documents=documents, storage_context=storage_context
     )
-
-    index.insert_nodes(nodes)
 
     print("LlamaParse vector store populated")
 
@@ -105,7 +126,20 @@ def populate_vector_store_naive() -> VectorStoreIndex:
     storage_context = StorageContext.from_defaults(vector_store=vector_store)
 
     print("Begin population of vector store with naive text (SimpleDirectoryReader)")
-    documents = SimpleDirectoryReader(input_dir=DATA_DIR).load_data()
+
+    data_dir_path = DATA_DIR
+    assert data_dir_path.exists()
+    all_files = sorted(list(data_dir_path.glob("*.pdf")))
+
+    documents = []
+
+    for file in all_files:
+        documents_to_add = SimpleDirectoryReader(input_files=[file]).load_data()
+        for document in documents_to_add:
+            company = stem_to_company[file.stem]
+            document.metadata["company_name"] = str(company)
+            document.metadata["document_title"] = company_to_document_title[company]
+        documents.extend(documents_to_add)
 
     index = VectorStoreIndex.from_documents(
         documents=documents, storage_context=storage_context

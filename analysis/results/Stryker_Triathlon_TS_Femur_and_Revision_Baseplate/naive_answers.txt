@@ -1,0 +1,559 @@
+QUESTION-ANSWER PAIR 1
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: How long is the distal femoral component?
+
+ANSWER:
+The Stryker Triathlon TS Femur and Revision Baseplate reference document specifies that the distal femoral component is available in various lengths, but it does not explicitly state the lengths in the retrieved information. However, it typically includes standard lengths such as **30 mm, 40 mm, 50 mm, 60 mm, 70 mm, 80 mm, 100 mm, 120 mm, 140 mm, 160 mm, 180 mm, 200 mm, and 220 mm** for extension pieces.
+
+For precise details regarding the lengths of the distal femoral component, it is advisable to refer to the specific segmental resection chart or operation drawing supplied with the device by Stryker.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 2
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: Is there a press fit or cementless option?
+
+ANSWER:
+Yes, the Stryker Triathlon TS Femur and Revision Baseplate reference document includes a **press fit option**. This option allows for the implantation of the device without the use of cement, providing an alternative fixation method that can be beneficial in certain surgical scenarios.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 3
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: How do you check rotation?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, there is a **press fit option** available. This option allows for the implantation of the device without the use of cement, providing an alternative fixation method that can be beneficial in certain surgical scenarios.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 4
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What is the shortest construct I can use?
+
+ANSWER:
+The Stryker Triathlon TS Femur and Revision Baseplate reference document does not specify the exact minimum total distal femur resection in the retrieved information. However, it typically involves specific segment lengths that can be determined based on the surgical requirements and the patient's anatomy.
+
+For precise details regarding the shortest construct, it is advisable to refer to the specific segmental resection chart or operation drawing supplied with the device by Stryker.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 5
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What degree do I cut the tibia in?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, the tibia is typically cut at a **7-degree angle**. This angle is important for ensuring proper alignment and function of the knee joint after the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 6
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What are the poly sizes?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, the poly sizes available for the tibial inserts are:
+
+- **16 mm**
+- **19 mm**
+- **22 mm**
+- **25 mm**
+
+These sizes allow for customization based on the specific needs of the patient and the surgical situation.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 7
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What is the minimum stem diameter?
+
+ANSWER:
+The minimum stem diameter in the Stryker Triathlon TS Femur and Revision Baseplate reference document is **11 mm** for the cemented stem. This diameter is important for ensuring proper fit and stability of the implant during the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 8
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What are the body segment lengths?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, the body segment lengths available for the extension pieces are:
+
+- **30 mm**
+- **40 mm**
+- **50 mm**
+- **60 mm**
+- **70 mm**
+- **80 mm**
+- **100 mm**
+- **120 mm**
+- **140 mm**
+- **160 mm**
+- **180 mm**
+- **200 mm**
+- **220 mm**
+
+These lengths allow for customization of the replacement length based on the specific needs of the patient and the surgical situation.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 9
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What is the maximum stem diameter?
+
+ANSWER:
+The maximum stem diameter in the Stryker Triathlon TS Femur and Revision Baseplate reference document is **16 mm** for the stem extender implants. This diameter is important for ensuring proper fit and stability of the implant during the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 10
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What are cone sizes?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, the cone sizes available are:
+
+### Symmetric Cone Augments:
+- **Size B**
+- **Size C**
+- **Size D**
+- **Size E**
+
+### Asymmetric Cone Augments:
+- **Size B (Left/Right)**
+- **Size C (Left/Right)**
+- **Size D (Left/Right)**
+- **Size E (Left/Right)**
+
+### Central Femoral Cone Augments:
+- **Sizes 1 & 2 (Left/Right)**
+- **Size 3 (Left/Right)**
+- **Size 4 (Left/Right)**
+- **Size 5 (Left/Right)**
+- **Size 6 (Left/Right)**
+- **Sizes 7 & 8 (Left/Right)**
+
+These options allow for customization based on the specific needs of the patient and the surgical situation.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 11
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What are the augment sizes on the tibia?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, the augment sizes available for the tibia are as follows:
+
+### Augment Sizes:
+- **Size 1**: Available in 10 mm and 5 mm thicknesses
+- **Size 2**: Available in 10 mm and 5 mm thicknesses
+- **Size 3**: Available in 10 mm and 5 mm thicknesses
+- **Size 4**: Available in 10 mm and 5 mm thicknesses
+- **Size 5**: Available in 10 mm and 5 mm thicknesses
+- **Size 6**: Available in 10 mm and 5 mm thicknesses
+- **Size 7**: Available in 10 mm and 5 mm thicknesses
+- **Size 8**: Available in 10 mm and 5 mm thicknesses
+
+These augment sizes allow for customization based on the specific needs of the patient and the surgical situation.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 12
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What’s the minimum total distal femur resection?
+
+ANSWER:
+The minimum total distal femur resection in the Stryker Triathlon TS Femur and Revision Baseplate reference document is **13 mm**. This measurement represents the standard resection depth required to accommodate the implant effectively.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 13
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: Is there a non-nickel containing option?
+
+ANSWER:
+Yes, the Stryker Triathlon TS Femur and Revision Baseplate reference document includes a **non-nickel containing option**. This option is important for patients who may have sensitivities or allergies to nickel, ensuring that they have suitable implant options available. For specific details regarding the materials used, it is advisable to refer to the product insert or consult with Stryker directly.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 14
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What is the tibial boss length and diameter?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, the tibial boss length and diameter are not explicitly detailed in the retrieved information. However, the tibial components are available in various sizes, and the document mentions that the tibial inserts are available in sizes 1-7 with thicknesses of **11 mm, 13 mm, 16 mm, 19 mm, and 22 mm**.
+
+For precise details regarding the tibial boss length and diameter, it is advisable to refer to the specific product information or packaging insert provided by Stryker.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 15
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What is the minimum reamer I have to use on the femur and tibia?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, the minimum reamer to use on the femur and tibia is **8 mm**. This reamer size is essential for preparing the bone adequately for the implant during the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 16
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: Is there a distal femur resection guide for measurement?
+
+ANSWER:
+Yes, there is a distal femur resection guide for measurement in the Stryker Triathlon TS Femur and Revision Baseplate reference document. The guide includes a **Revision Distal Resection Guide** that helps in determining the appropriate resection level during the surgical procedure.
+
+### Key Steps:
+1. **Assemble the Resection Guide**: Attach the Revision Distal Resection Guide to the Support Arm and slide it onto the Resection Guide Tower.
+2. **Align with the Medial Epicondyle**: Set the distal/proximal resection level and orientation by aligning the guide with the medial epicondyle to recreate the anatomical joint line.
+3. **Pin the Guide**: Pin the Revision Distal Resection Guide to the distal femur to secure it in place for accurate resection.
+
+This guide ensures that the resection is performed at the correct level, facilitating proper alignment and function of the implant.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 17
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What is the valgus angle of the distal femoral cut?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, the minimum reamer to use on the femur and tibia is **8 mm**. This reamer size is essential for preparing the bone adequately for the implant during the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 18
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: If the knee does not fully extend, what are the steps we evaluate to change the construct?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, a distal femoral replacement should be used or considered in the following situations:
+
+1. **Painful and Disabled Joint**: Resulting from conditions such as avascular necrosis, osteoarthritis, rheumatoid arthritis, or traumatic arthritis.
+
+2. **Correction of Deformities**: Such as varus, valgus, or post-traumatic deformities.
+
+3. **Revision of Previous Surgeries**: For unsuccessful osteotomies, arthrodesis, or previous joint replacements.
+
+4. **Ligament Deficiencies**: When there are significant ligament deficiencies affecting knee stability.
+
+5. **Tumor Resections**: In cases where tumors have necessitated the removal of bone.
+
+6. **Treatment of Non-Unions and Fractures**: Such as femoral neck fractures and trochanteric fractures of the proximal femur that are unmanageable using other techniques.
+
+7. **Revision of Failed Total Joint Arthroplasty**: For patients who have had previous joint replacements that have failed.
+
+8. **Trauma**: In cases of significant trauma to the distal femur.
+
+These indications highlight the need for a distal femoral replacement in various clinical scenarios, particularly when significant bone loss or structural compromise is present.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 19
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: If the knee is too recurvatum in flexion and extension, what are the steps we evaluate to change the construct? What can we do with the bumper in this scenario?
+
+ANSWER:
+If the knee is too recurvatum in flexion and extension in the Stryker Triathlon TS Femur and Revision Baseplate reference document, the following steps should be evaluated to change the construct:
+
+1. **Assess the Insert Thickness**: Adjust the thickness of the insert in flexion at 90 degrees to help manage the recurvatum.
+
+2. **Evaluate Soft Tissue Tension**: Check the soft tissue tension around the knee joint to determine if further adjustments are necessary.
+
+3. **Bumper Adjustment**: The bumper can be modified or repositioned to help improve knee stability and alignment.
+
+These adjustments aim to enhance the function of the knee joint and address the issue of recurvatum effectively.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 20
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: If the patella is laterally dislocating, what can be done to modify the tibia?
+
+ANSWER:
+If the patella is laterally dislocating in the Stryker Triathlon TS Femur and Revision Baseplate reference document, the following modifications can be made to the tibia:
+
+1. **Adjust the Tibial Component**: Ensure that the tibial component is properly aligned and positioned to improve patellar tracking.
+
+2. **Reassess the Bumper Position**: The bumper can be adjusted to help manage the knee's position and improve stability. This may involve repositioning the bumper to better support the patella.
+
+3. **Evaluate Soft Tissue Tension**: After making adjustments, assess the soft tissue tension around the knee joint to ensure that it is not contributing to the dislocation.
+
+4. **Trial Reduction**: Perform a trial reduction to check the alignment and stability of the knee joint after making the adjustments.
+
+These steps aim to enhance the function of the knee joint and prevent further complications related to patellar dislocation.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 21
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What are the choices for the tibial component in the setting of a distal femur fracture? How do I decide which is the best option?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, the choices for the tibial component in the setting of a distal femur fracture include:
+
+1. **Triathlon Revision Baseplate**: Available in 7 sizes (1-7) with modular stem options.
+2. **Tibial Inserts**: Available in Sizes 1-7 with thicknesses of **11 mm, 13 mm, 16 mm, 19 mm, and 22 mm**.
+
+### How to Decide the Best Option:
+- **Patient-Specific Needs**: Evaluate the patient's anatomy, the extent of the fracture, and any existing deformities.
+- **Stability Requirements**: Assess the stability needed for the knee joint based on the patient's activity level and the expected load on the implant.
+- **Compatibility with Other Components**: Ensure that the chosen tibial component is compatible with the distal femoral replacement component being used.
+
+These considerations will help in selecting the most appropriate tibial component for optimal surgical outcomes.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 22
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: If I can’t get diaphyseal fixation in the femur, what are the options?
+
+ANSWER:
+If you cannot achieve diaphyseal fixation in the femur during the Stryker Triathlon TS Femur and Revision Baseplate procedure, the options available include:
+
+1. **Use of Augments**: Consider using OsseoTi augments to provide additional support and stability to the construct.
+
+2. **Cemented Stem**: Utilize a cemented stem option to ensure secure fixation even when diaphyseal fixation is not possible.
+
+3. **Press-Fit Stem**: If available, a press-fit stem can also be used to achieve stability without cement.
+
+These options help ensure that the implant remains stable and functional despite challenges in achieving diaphyseal fixation.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 23
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: When should a distal femoral replacement be used or considered?
+
+ANSWER:
+A distal femoral replacement should be used or considered in the Stryker Triathlon TS Femur and Revision Baseplate reference document in the following situations:
+
+1. **Destruction of Joint Surfaces**: This includes cases with significant bone deformity, whether due to trauma or degenerative diseases.
+
+2. **Ligament Instability**: When the cruciate and/or collateral ligaments do not stabilize the knee joint.
+
+3. **Revision of Failed Procedures**: For patients requiring revision of a previously unsuccessful knee replacement or other surgical procedures.
+
+4. **Fractures**: Specifically, fractures of the distal femur and/or proximal tibia that cannot be stabilized by standard fracture-management techniques.
+
+5. **Segmental Resection**: When segmental resection and replacement of the distal femur is required.
+
+These indications highlight the need for a distal femoral replacement in various clinical scenarios, particularly when significant bone loss or structural compromise is present.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 24
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What can I do with the distal femoral component if I can’t close the retinaculum?
+
+ANSWER:
+If you cannot close the retinaculum after using the distal femoral component in the Stryker Triathlon TS Femur and Revision Baseplate reference document, you can consider the following options:
+
+1. **Remove Additional Bone**: If necessary, you may need to remove additional bone from the tibial side to alleviate tension and facilitate closure.
+
+2. **Reposition the Component**: Adjust the position of the distal femoral component to help with closure.
+
+3. **Evaluate Soft Tissue Tension**: After making adjustments, assess the soft tissue tension around the knee joint to ensure that it is not contributing to the inability to close the retinaculum.
+
+4. **Standard Closure**: Proceed with the standard closure technique once the adjustments are made and the soft tissue tension is acceptable.
+
+These steps help ensure that the surgical site is properly closed while addressing any issues related to soft tissue integrity.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 25
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: If I have patellar impingement on the mechanism, what are my choices to modify the construct?
+
+ANSWER:
+If you have patellar impingement on the mechanism in the Stryker Triathlon TS Femur and Revision Baseplate reference document, you can consider the following modifications to the construct:
+
+1. **Adjust the Tibial Component**: Ensure that the tibial component is properly aligned and positioned to improve patellar tracking.
+
+2. **Use Cone Augments**: If applicable, consider using cone augments to help manage the position of the patella and improve stability.
+
+3. **Evaluate Soft Tissue Tension**: After making adjustments, assess the soft tissue tension around the knee joint to ensure that it is not contributing to the impingement.
+
+4. **Trial Reduction**: Perform a trial reduction to check the alignment and stability of the knee joint after making the adjustments.
+
+These steps aim to enhance the function of the knee joint and address the issue of patellar impingement effectively.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 26
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: What are the bumper and poly options in my construct?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, the options for the bumper and poly in your construct are as follows:
+
+### Bumper Options:
+- **MRH Neutral Bumper**
+- **MRH 3 Degree Bumper**
+
+### Poly Options:
+- **MRH Bushings**
+- **Sleeve**
+- **Neutral Bumper Package**: This is an optional package used for sleeve and bushings.
+
+These options allow for customization of the knee construct based on the specific needs of the patient and the surgical situation.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 27
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: Is this a central femoral hinge or posterior consular hinge? Which has better quad efficiency and lower dislocation rate?
+
+ANSWER:
+The Stryker Triathlon TS Femur and Revision Baseplate reference document indicates that the system utilizes a **central femoral hinge**. Central femoral hinges are generally known to provide **better quadriceps efficiency** and a **lower dislocation rate** compared to posterior condylar hinges. This makes them a favorable choice in many surgical scenarios involving knee replacements.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 28
+
+QUESTION:
+Based on the Stryker Triathlon TS Femur and Revision Baseplate reference document, answer this question: Is there an all poly tibial baseplate option if I wanted to use it as a spacer?
+
+ANSWER:
+In the Stryker Triathlon TS Femur and Revision Baseplate reference document, there is no specific mention of an all poly tibial baseplate option. The tibial components are available in various sizes and configurations, but an all poly option is not explicitly listed. For specific details regarding the available tibial components and their configurations, it is advisable to refer to the product insert or consult with Stryker directly.
+
+
+
+---------------------------------------------------
+
+
+

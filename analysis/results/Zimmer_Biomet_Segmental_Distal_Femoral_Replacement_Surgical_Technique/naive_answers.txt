@@ -1,0 +1,515 @@
+QUESTION-ANSWER PAIR 1
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: How long is the distal femoral component?
+
+ANSWER:
+The length of the distal femoral component in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document is not explicitly stated in the retrieved information. However, it typically includes standard lengths such as **7 cm** and **8.5 cm** for the distal femurs. For precise measurements, it is advisable to refer to the specific segmental distal femoral resection chart or operation drawing supplied with the device.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 2
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: Is there a press fit or cementless option?
+
+ANSWER:
+Yes, the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document includes a **press fit option**. This option allows for the implantation of the device without the use of cement, providing an alternative fixation method that can be beneficial in certain surgical scenarios.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 3
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: How do you check rotation?
+
+ANSWER:
+To check rotation in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique, you should follow these general steps:
+
+1. **Use the Trial Components**: Utilize the trial components to assess the proper rotational alignment of the femoral and tibial components.
+
+2. **Mark Reference Points**: Make marks on the femur to indicate the desired rotational alignment based on anatomical landmarks.
+
+3. **Compare with the Opposite Side**: If applicable, compare the alignment with the opposite knee to ensure symmetry and proper rotation.
+
+4. **Final Adjustments**: Once the proper orientation is established, use the anti-rotation slot on the trial as a reference to mark the femur for alignment when inserting the final implant.
+
+These steps help ensure that the components are properly aligned and that the rotation is checked effectively during the surgical procedure. For specific details, always refer to the product instructions for use provided by Zimmer Biomet.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 4
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What is the shortest construct I can use?
+
+ANSWER:
+The shortest construct you can use in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document is not explicitly stated in the retrieved information. However, it typically involves specific segment lengths that can be determined based on the surgical requirements and the patient's anatomy.
+
+For precise details regarding the shortest construct, it is advisable to refer to the specific segmental resection chart or operation drawing supplied with the device by Zimmer Biomet.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 5
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What degree do I cut the tibia in?
+
+ANSWER:
+In the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, the tibia is cut at a **7-degree angle**. This angle is important for ensuring proper alignment and function of the knee joint after the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 6
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What are the poly sizes?
+
+ANSWER:
+The Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document does not specify the exact poly sizes in the retrieved information. For detailed information regarding the available poly sizes, it is recommended to refer to the specific product information or packaging insert provided by Zimmer Biomet.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 7
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What is the minimum stem diameter?
+
+ANSWER:
+The minimum stem diameter in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document is **11 mm** for the cemented stem. This diameter is important for ensuring proper fit and stability of the implant during the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 8
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What are the body segment lengths?
+
+ANSWER:
+The body segment lengths in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document are determined using a distal femoral resection template. The specific lengths are not explicitly listed in the retrieved information, but the resection length is identified based on corresponding engravings on the template.
+
+For precise details regarding the available body segment lengths, it is advisable to refer to the specific segmental resection chart or operation drawing supplied with the device by Zimmer Biomet.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 9
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What is the maximum stem diameter?
+
+ANSWER:
+The maximum stem diameter in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document is **13.5 mm** for the porous stem (implant). This diameter is important for ensuring proper fit and stability of the implant during the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 10
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What are cone sizes?
+
+ANSWER:
+In the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, the cone sizes available are:
+
+- **7 cm**
+- **8.5 cm**
+
+These sizes are used in the context of the surgical technique for appropriate fitting and alignment during the procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 11
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What are the augment sizes on the tibia?
+
+ANSWER:
+The augment sizes on the tibia in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document include **OsseoTi Augments**. However, specific sizes for these augments are not detailed in the retrieved information. For precise augment sizes, it is recommended to refer to the specific product information or packaging insert provided by Zimmer Biomet.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 12
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What’s the minimum total distal femur resection?
+
+ANSWER:
+The minimum total distal femur resection in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document is performed at the **reference resection mark**. This mark is used to guide the surgeon in determining the appropriate level for resection during the procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 13
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: Is there a non-nickel containing option?
+
+ANSWER:
+The Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document does not explicitly mention a non-nickel containing option. For specific information regarding materials and options available, it is advisable to refer to the product insert or consult with Zimmer Biomet directly.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 14
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What is the tibial boss length and diameter?
+
+ANSWER:
+The tibial boss length in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document is **7 cm** and **8.5 cm**. However, the diameter of the tibial boss is not specified in the retrieved information. For precise details regarding the diameter, it is advisable to refer to the specific product information or packaging insert provided by Zimmer Biomet.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 15
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What is the minimum reamer I have to use on the femur and tibia?
+
+ANSWER:
+The minimum reamer to use on the femur and tibia in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document is the **smallest diameter flexible reamer**. This reamer is essential for ensuring proper preparation of the bone for the implant.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 16
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: Is there a distal femur resection guide for measurement?
+
+ANSWER:
+Yes, there is a distal femoral resection guide for measurement in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document. The guide includes a distal femoral resection template that is placed on the bone to identify the resection length based on corresponding engravings. 
+
+Key steps include:
+- Marking the resection point on the femur.
+- Making a longitudinal anterior mark for reference.
+
+This guide helps ensure accurate resection during the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 17
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What is the valgus angle of the distal femoral cut?
+
+ANSWER:
+The valgus angle of the distal femoral cut in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document is **5 degrees**. This angle is important for ensuring proper alignment and function of the knee joint after the surgical procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 18
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: If the knee does not fully extend, what are the steps we evaluate to change the construct?
+
+ANSWER:
+If the knee does not fully extend in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique, the following steps should be evaluated to change the construct:
+
+1. **Hyperflex the Knee**: Start by hyperflexing the knee with the patella everted to allow for proper articulation of the tibial and femoral components.
+
+2. **Insert the Yoke**: Insert the yoke down into the tibial baseplate while the knee is in a hyperflexed position.
+
+3. **Place the Knee in Extension**: After inserting the yoke, place the knee in extension.
+
+4. **Evaluate Soft Tissue Tension**: Assess the soft tissue tension around the knee joint to determine if adjustments are needed.
+
+5. **Closure**: Once the evaluation is complete and any necessary adjustments are made, proceed with the standard closure of the surgical site.
+
+These steps help ensure that the knee joint functions properly and achieves the desired range of motion post-surgery.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 19
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: If the knee is too recurvatum in flexion and extension, what are the steps we evaluate to change the construct? What can we do with the bumper in this scenario?
+
+ANSWER:
+If the knee is too recurvatum in flexion and extension in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique, the following steps should be evaluated to change the construct:
+
+1. **Hyperflex the Knee**: Start by hyperflexing the knee with the patella everted to allow for proper articulation of the tibial and femoral components.
+
+2. **Insert the Yoke**: Insert the yoke down into the tibial baseplate while the knee is in a hyperflexed position.
+
+3. **Place the Knee in Extension**: After inserting the yoke, place the knee in extension.
+
+4. **Evaluate Soft Tissue Tension**: Assess the soft tissue tension around the knee joint to determine if adjustments are needed.
+
+5. **Adjust the Bumper**: If necessary, the bumper can be repositioned or modified to help manage the knee's position and improve stability.
+
+6. **Closure**: Once the evaluation is complete and any necessary adjustments are made, proceed with the standard closure of the surgical site.
+
+These steps help ensure that the knee joint functions properly and achieves the desired range of motion post-surgery.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 20
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: If the patella is laterally dislocating, what can be done to modify the tibia?
+
+ANSWER:
+If the patella is laterally dislocating in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique, the following modifications can be made to the tibia:
+
+1. **Hyperflex the Knee**: Start by hyperflexing the knee with the patella everted. This position allows for better articulation of the tibial and femoral components.
+
+2. **Insert the Yoke**: Insert the yoke down into the tibial baseplate while the knee is hyperflexed.
+
+3. **Evaluate Soft Tissue Tension**: After placing the knee in extension, assess the soft tissue tension around the knee joint to determine if further adjustments are necessary.
+
+These steps help to ensure proper alignment and stability of the knee joint, addressing the issue of patellar dislocation effectively.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 21
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What are the choices for the tibial component in the setting of a distal femur fracture? How do I decide which is the best option?
+
+ANSWER:
+In the setting of a distal femur fracture, the choices for the tibial component in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document include:
+
+1. **Rotating Hinge – Passive Tibia**
+2. **Passive Fixed Hinge Tibia**
+3. **Rotating Hinge – Polyethylene Tibia**
+4. **Rotating Hinge – Metal Cased Tibia**
+5. **Fixed Hinge Tibia**
+
+### How to Decide the Best Option:
+- **Patient-Specific Needs**: Evaluate the patient's anatomy, the extent of the fracture, and any existing deformities.
+- **Stability Requirements**: Assess the stability needed for the knee joint based on the patient's activity level and the expected load on the implant.
+- **Compatibility with Other Components**: Ensure that the chosen tibial component is compatible with the distal femoral replacement component being used.
+
+These considerations will help in selecting the most appropriate tibial component for optimal surgical outcomes.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 22
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: If I can’t get diaphyseal fixation in the femur, what are the options?
+
+ANSWER:
+If you cannot achieve diaphyseal fixation in the femur during the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique, the options available include:
+
+1. **Cemented Stem**: Utilizing a cemented stem can provide stable fixation even when diaphyseal fixation is not possible.
+
+2. **Press-Fit Stem**: A press-fit option may also be available, allowing for a secure fit without the use of cement.
+
+These options help ensure that the implant remains stable and functional despite challenges in achieving diaphyseal fixation.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 23
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: When should a distal femoral replacement be used or considered?
+
+ANSWER:
+A distal femoral replacement should be used or considered in the following situations according to the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document:
+
+1. **Painful and Disabled Joint**: Resulting from conditions such as avascular necrosis, osteoarthritis, rheumatoid arthritis, or traumatic arthritis.
+
+2. **Correction of Deformities**: Such as varus, valgus, or post-traumatic deformities.
+
+3. **Revision of Previous Surgeries**: For unsuccessful osteotomies, arthrodesis, or previous joint replacements.
+
+4. **Ligament Deficiencies**: When there are significant ligament deficiencies affecting knee stability.
+
+5. **Tumor Resections**: In cases where tumors have necessitated the removal of bone.
+
+6. **Treatment of Non-Unions and Fractures**: Such as femoral neck fractures and trochanteric fractures of the proximal femur that are unmanageable using other techniques.
+
+7. **Revision of Failed Total Joint Arthroplasty**: For patients who have had previous joint replacements that have failed.
+
+8. **Trauma**: In cases of significant trauma to the distal femur.
+
+These indications highlight the need for a distal femoral replacement in various clinical scenarios, particularly when significant bone loss or structural compromise is present.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 24
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What can I do with the distal femoral component if I can’t close the retinaculum?
+
+ANSWER:
+If you cannot close the retinaculum after using the distal femoral component in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique, you can consider the following options:
+
+1. **Reposition the Component**: If necessary, you may need to reposition the distal femoral component proximally to alleviate tension and facilitate closure.
+
+2. **Evaluate Soft Tissue Tension**: After placing the knee in extension, assess the soft tissue tension around the knee joint to determine if further adjustments are needed.
+
+3. **Standard Closure**: Proceed with the standard closure technique once the adjustments are made and the soft tissue tension is acceptable.
+
+These steps help ensure that the surgical site is properly closed while addressing any issues related to soft tissue integrity.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 25
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: If I have patellar impingement on the mechanism, what are my choices to modify the construct?
+
+ANSWER:
+If you have patellar impingement on the mechanism in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique, you can consider the following modifications to the construct:
+
+1. **Hyperflex the Knee**: Start by hyperflexing the knee with the patella everted. This position allows for better articulation of the tibial and femoral components.
+
+2. **Insert the Yoke**: Insert the yoke down into the tibial baseplate while the knee is hyperflexed.
+
+3. **Evaluate Soft Tissue Tension**: After placing the knee in extension, assess the soft tissue tension around the knee joint to determine if further adjustments are necessary.
+
+These steps help to ensure proper alignment and stability of the knee joint, addressing the issue of patellar impingement effectively.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 26
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: What are the bumper and poly options in my construct?
+
+ANSWER:
+In the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, the options for the bumper and poly in your construct are as follows:
+
+### Bumper Options:
+- **10 mm Bumper**
+- **15 mm Bumper**
+- **20 mm Bumper**
+
+### Poly Options:
+- **Standard Polyethylene**
+- **Highly Cross-Linked Polyethylene**
+
+These options allow for customization of the knee construct based on the specific needs of the patient and the surgical situation.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 27
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: Is this a central femoral hinge or posterior consular hinge? Which has better quad efficiency and lower dislocation rate?
+
+ANSWER:
+The Zimmer Biomet Segmental Distal Femoral Replacement utilizes a **posterior condylar hinge**. Generally, posterior condylar hinges are known to provide **better quadriceps efficiency** and a **lower dislocation rate** compared to central femoral hinges. This makes them a favorable choice in many surgical scenarios involving knee replacements.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 28
+
+QUESTION:
+Based on the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document, answer this question: Is there an all poly tibial baseplate option if I wanted to use it as a spacer?
+
+ANSWER:
+Yes, there is an all poly tibial baseplate option in the Zimmer Biomet Segmental Distal Femoral Replacement Surgical Technique reference document. This option can be utilized if you want to use it as a spacer. The tibial assembly includes a polyethylene tibial bearing that can be used in conjunction with the tibial baseplate.
+
+
+
+---------------------------------------------------
+
+
+
