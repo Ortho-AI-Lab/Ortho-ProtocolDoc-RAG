@@ -1,6 +1,5 @@
 import nest_asyncio
 from llama_parse import LlamaParse
-from llama_index.core.node_parser import MarkdownElementNodeParser
 from llama_index.core import VectorStoreIndex
 from llama_index.vector_stores.qdrant import QdrantVectorStore
 from llama_index.core import StorageContext
@@ -11,14 +10,13 @@ import qdrant_client
 
 from ..utils.constants import DATA_DIR
 from ..utils.find_key import find_key
-from ..llm.openai import build_chat_openai
 
 
 stem_to_company = {
-    "DPY_LPS_Limb_Preservation_Sys_Surgtech_0612-36-500r2": "DePuy",
-    "Minimally-Invasive-Grower-Custom-Distal-Femoral-Surgical-Technique-Passive-Fixed-Hinge-Tibia": "Onkos",
-    "OSSSegmentalDistalFemoralReplacementSurgicalTechnique01462GLBLenREV0316": "Zimmer Biomet",
-    "THS_SP_1": "Stryker",
+    "Depuy_distal": "DePuy",
+    "onko_distal": "Onkos",
+    "OSSZimmer_Distal": "Zimmer Biomet",
+    "stryker_cut": "Stryker",
 }
 
 
@@ -26,7 +24,7 @@ company_to_document_title = {
     "DePuy": "Orthogenesis Limb Preservation System Surgical Techniques",
     "Onkos": "Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option",
     "Zimmer Biomet": "Segmental Distal Femoral Replacement Surgical Technique",
-    "Stryker": "Triathlon TS Femur and Revision Baseplate",
+    "Stryker": "GMRS Distal Femur and Revision Baseplate Surgical Protocol",
 }
 
 
@@ -38,8 +36,21 @@ llamaparse_vector_store_path = (
 )
 llamaparse_vector_store_path.mkdir(exist_ok=True)
 
+
+llamaparse_vector_store_multiple_path = (
+    Path(__file__).resolve().parent / "_vector_store_llamaparse_multiple_docs"
+)
+llamaparse_vector_store_multiple_path.mkdir(exist_ok=True)
+
+
 naive_vector_store_path = Path(__file__).resolve().parent / "_vector_store_naive"
 naive_vector_store_path.mkdir(exist_ok=True)
+
+
+naive_vector_store_multiple_path = (
+    Path(__file__).resolve().parent / "_vector_store_naive_multiple_docs"
+)
+naive_vector_store_multiple_path.mkdir(exist_ok=True)
 
 
 def populate_vector_store_llamaparse() -> VectorStoreIndex:
@@ -47,7 +58,7 @@ def populate_vector_store_llamaparse() -> VectorStoreIndex:
 
     client = qdrant_client.QdrantClient(path=llamaparse_vector_store_path)
     print(
-        "QdrantClient initialized with vector store path:", llamaparse_vector_store_path
+        f"QdrantClient initialized with vector store path: {llamaparse_vector_store_path}"
     )
 
     if (llamaparse_vector_store_path / "collection" / "llamaparse_text_store").exists():
@@ -111,6 +122,94 @@ def get_vector_store_llamaparse() -> VectorStoreIndex:
     return index
 
 
+def populate_vector_store_llamaparse_multiple_docs(subset = None) -> dict:
+    """Populate the vector stores with LlamaParse,
+    and return a dictionary of file stem to index."""
+
+    # first, find all the files
+    data_dir_path = DATA_DIR
+    assert data_dir_path.exists()
+    all_files = sorted(list(data_dir_path.glob("*.pdf")))
+    print("Found", len(all_files), "PDF files:")
+    for f in all_files:
+        print(f"  {f}")
+
+    # create a dictionary to store the indexes
+    indexes = {}
+
+    for file in all_files:
+        # create a new client and vector store for each company
+        if file.stem not in subset:
+            continue
+
+        client_path = llamaparse_vector_store_multiple_path / file.stem
+        client_path.mkdir(exist_ok=True)
+
+        client = qdrant_client.QdrantClient(path=client_path)
+
+        if (client_path / "collection" / "llamaparse_text_store").exists():
+            client.delete_collection("llamaparse_text_store")
+            print("Deleted existing collection")
+
+        print(f"Creating new collection and storage context for {file.stem}")
+        vector_store = QdrantVectorStore(
+            collection_name="llamaparse_text_store", client=client
+        )
+
+        storage_context = StorageContext.from_defaults(vector_store=vector_store)
+
+        print(f"Begin population of vector store with LlamaParse for {file.stem}")
+        parser = LlamaParse(
+            api_key=find_key("llamacloud"),
+            num_workers=4,
+            language="en",
+            result_type="markdown",
+        )
+
+        print(f"Parsing {file.stem} with LlamaParse")
+
+        documents = parser.load_data(file_path=str(file))
+
+        for document in documents:
+            company = stem_to_company[file.stem]
+            document.metadata["company_name"] = str(company)
+            document.metadata["document_title"] = company_to_document_title[company]
+
+        index = VectorStoreIndex.from_documents(
+            documents=documents, storage_context=storage_context
+        )
+
+        indexes[file.stem] = index
+
+        print(f"LlamaParse vector store populated for {file.stem}")
+
+    return indexes
+
+
+def get_vector_store_llamaparse_multiple_docs() -> dict[str, VectorStoreIndex]:
+    """Returns a dictionary of file stem to index for the LlamaParse vector stores.
+    Assumes the vector stores have already been populated.
+    """
+    data_dir_path = DATA_DIR
+    assert data_dir_path.exists()
+    all_files = sorted(list(data_dir_path.glob("*.pdf")))
+
+    indexes = {}
+
+    for file in all_files:
+        client_path = llamaparse_vector_store_multiple_path / file.stem
+        client = qdrant_client.QdrantClient(path=client_path)
+        vector_store = QdrantVectorStore(
+            collection_name="llamaparse_text_store", client=client
+        )
+        index = VectorStoreIndex.from_vector_store(vector_store=vector_store)
+        indexes[file.stem] = index
+
+    print(f"LlamaParse vector stores retrieved for {indexes.keys()}.")
+
+    return indexes
+
+
 def populate_vector_store_naive() -> VectorStoreIndex:
     """Populate the vector store with naive text and return the index."""
 
@@ -158,3 +257,79 @@ def get_vector_store_naive() -> VectorStoreIndex:
     vector_store = QdrantVectorStore(collection_name="naive_text_store", client=client)
     index = VectorStoreIndex.from_vector_store(vector_store=vector_store)
     return index
+
+
+def populate_vector_store_naive_multiple_docs() -> dict:
+    """Populate the vector stores with naive text,
+    and return a dictionary of file stem to index."""
+
+    # first, find all the files
+    data_dir_path = DATA_DIR
+    assert data_dir_path.exists()
+    all_files = sorted(list(data_dir_path.glob("*.pdf")))
+    print("Found", len(all_files), "PDF files:")
+    for f in all_files:
+        print(f"  {f}")
+
+    # create a dictionary to store the indexes
+    indexes = {}
+
+    for file in all_files:
+        # create a new client and vector store for each company
+        client_path = naive_vector_store_multiple_path / file.stem
+        client_path.mkdir(exist_ok=True)
+
+        client = qdrant_client.QdrantClient(path=client_path)
+
+        if (client_path / "collection" / "naive_text_store").exists():
+            client.delete_collection("naive_text_store")
+            print("Deleted existing collection")
+
+        print(f"Creating new collection and storage context for {file.stem}")
+        vector_store = QdrantVectorStore(collection_name="naive_text_store", client=client)
+
+        storage_context = StorageContext.from_defaults(vector_store=vector_store)
+
+        print(f"Begin population of vector store with naive text for {file.stem}")
+
+        documents = SimpleDirectoryReader(input_files=[file]).load_data()
+
+        for document in documents:
+            company = stem_to_company[file.stem]
+            document.metadata["company_name"] = str(company)
+            document.metadata["document_title"] = company_to_document_title[company]
+
+        index = VectorStoreIndex.from_documents(
+            documents=documents, storage_context=storage_context
+        )
+
+        indexes[file.stem] = index
+
+        print(f"Naive text vector store populated for {file.stem}")
+
+    return indexes
+
+
+def get_vector_store_naive_multiple_docs() -> dict[str, VectorStoreIndex]:
+    """Returns a dictionary of file stem to index for the naive text vector stores.
+    Assumes the vector stores have already been populated.
+    """
+    data_dir_path = DATA_DIR
+    assert data_dir_path.exists()
+    all_files = sorted(list(data_dir_path.glob("*.pdf")))
+
+    indexes = {}
+
+    for file in all_files:
+        client_path = naive_vector_store_multiple_path / file.stem
+        client = qdrant_client.QdrantClient(path=client_path)
+        vector_store = QdrantVectorStore(
+            collection_name="naive_text_store", client=client
+        )
+
+        index = VectorStoreIndex.from_vector_store(vector_store=vector_store)
+        indexes[file.stem] = index
+
+    print(f"Naive text vector stores retrieved for {indexes.keys()}.")
+
+    return indexes

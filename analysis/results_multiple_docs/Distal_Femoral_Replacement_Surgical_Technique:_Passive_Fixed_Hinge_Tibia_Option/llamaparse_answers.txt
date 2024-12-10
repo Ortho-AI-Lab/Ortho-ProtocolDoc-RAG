@@ -1,0 +1,585 @@
+QUESTION-ANSWER PAIR 1
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+How long is the distal femoral component?
+
+ANSWER:
+The document does not specify the exact length of the distal femoral component. It primarily discusses the components and assembly related to the distal femoral replacement. For precise measurements regarding the length of the distal femoral component, it may be necessary to consult additional resources or specific product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 2
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+Is there a press fit or cementless option?
+
+ANSWER:
+The document indicates that there is a **cemented stem option** for the distal femoral replacement. It does not explicitly mention a press fit or cementless option. The emphasis is on ensuring proper cementing techniques to avoid issues with bony ingrowth and to secure the components effectively. For specific details regarding the availability of a cementless option, it may be necessary to consult additional resources or product specifications from Onkos.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 3
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+How do you check rotation?
+
+ANSWER:
+To check rotation during the assembly of the distal femoral replacement, follow these steps:
+
+1. **Align Components**: Ensure that the femoral and tibial components are properly aligned.
+
+2. **Insert the Axle**: Use a pointed implement to rotate the axle, ensuring that the offset head fits into the recess within the tibial component.
+
+3. **Check Seating**: Confirm that the offset head is seated correctly within the recess and is not trapped in the circlip groove.
+
+This process helps ensure that the components are correctly oriented and that the knee joint will function properly during movement.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 4
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What is the shortest construct I can use?
+
+ANSWER:
+The document does not specify the exact shortest construct length for the distal femoral replacement. It primarily discusses the components and assembly related to the distal femoral replacement. For precise measurements regarding the shortest construct, it may be necessary to consult additional resources or specific product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 5
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What degree do I cut the tibia in?
+
+ANSWER:
+The document does not specify an exact degree for cutting the tibia. It emphasizes the use of a tibial cutting guide to align and secure the cutting face parallel to the tibia. The cutting guide should be adjusted to match the reference cutting face indicated in the operation drawing, and the tibial plateau should be trimmed in line with this plane.
+
+For precise cutting angles, it is advisable to refer to specific surgical guidelines or protocols that may provide detailed instructions based on the surgical technique being employed.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 6
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What are the poly sizes?
+
+ANSWER:
+The document does not provide specific details regarding the sizes of polyethylene (poly) components used in the distal femoral replacement. It primarily discusses the assembly and components related to the tibial and femoral components, including bumper pads and bushes.
+
+For detailed information regarding the sizes of poly components, it may be necessary to consult additional resources or product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 7
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What is the minimum stem diameter?
+
+ANSWER:
+The document does not specify the exact minimum stem diameter for the distal femoral replacement. It primarily discusses the assembly and components related to the femoral and tibial components. For precise measurements regarding the minimum stem diameter, it may be necessary to consult additional resources or specific product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 8
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What are the body segment lengths?
+
+ANSWER:
+The document does not provide specific details regarding the body segment lengths for the distal femoral replacement. It primarily discusses the surgical technique and components related to the procedure. For precise measurements regarding the body segment lengths, it may be necessary to consult additional resources or specific product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 9
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What is the maximum stem diameter?
+
+ANSWER:
+The document does not specify the exact maximum stem diameter for the distal femoral replacement. It primarily discusses the components and assembly related to the femoral and tibial components. For precise measurements regarding the maximum stem diameter, it may be necessary to consult additional resources or specific product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 10
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What are cone sizes?
+
+ANSWER:
+The document does not provide specific information regarding "cone sizes." It primarily discusses the instruments and components related to the distal femoral replacement surgical technique. For detailed specifications on cone sizes, it may be necessary to refer to additional resources or specific product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 11
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What are the augment sizes on the tibia?
+
+ANSWER:
+The document does not specify the augment sizes for the tibia in the distal femoral replacement. It primarily discusses the instruments and techniques for tibial insertion and preparation. For precise information regarding the augment sizes, it may be necessary to consult additional resources or specific product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 12
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What’s the minimum total distal femur resection?
+
+ANSWER:
+The document does not specify the exact minimum total distal femur resection. It primarily discusses the surgical technique and components related to the distal femoral replacement. For precise measurements regarding the minimum total distal femur resection, it may be necessary to consult additional resources or specific product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 13
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+Is there a non-nickel containing option?
+
+ANSWER:
+The document does not explicitly mention the availability of a non-nickel containing option for the distal femoral replacement. For specific information regarding material options, including the presence of nickel, it may be necessary to consult additional resources or product specifications from Onkos.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 14
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What is the tibial boss length and diameter?
+
+ANSWER:
+The document does not provide specific details regarding the length and diameter of the tibial boss. It primarily discusses the surgical technique and components related to the tibial insertion and preparation. For precise specifications on the tibial boss length and diameter, it may be necessary to consult additional resources or product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 15
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What is the minimum reamer I have to use on the femur and tibia?
+
+ANSWER:
+The minimum reamer to use for the femur is a **fixed hinge tibial reamer**. For the tibia, you should also use the **fixed hinge tibial reamer** to ream the tibial canal. 
+
+In summary:
+- **Minimum Reamer for Femur**: Fixed hinge tibial reamer
+- **Minimum Reamer for Tibia**: Fixed hinge tibial reamer
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 16
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+Is there a distal femur resection guide for measurement?
+
+ANSWER:
+The document does not explicitly mention a specific distal femur resection guide for measurement. However, it discusses the use of various instruments and guides for the surgical procedure, including a tibial cutting guide. 
+
+For precise information regarding a distal femur resection guide, it may be necessary to consult additional resources or specific product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 17
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What is the valgus angle of the distal femoral cut?
+
+ANSWER:
+The document does not specify the exact valgus angle for the distal femoral cut. It primarily discusses the instruments and techniques for tibial insertion and femoral component assembly. For specific cutting angles, it is advisable to refer to surgical guidelines or protocols that may provide detailed instructions based on the surgical technique being employed.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 18
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+If the knee does not fully extend, what are the steps we evaluate to change the construct?
+
+ANSWER:
+The document does not provide specific steps to evaluate and change the construct if the knee does not fully extend. However, in general practice, the following steps can be considered:
+
+1. **Assess Soft Tissue Tension**: Evaluate the soft tissue tension around the knee joint while the knee is in extension. This helps determine if excessive tension is preventing full extension.
+
+2. **Check Component Alignment**: Ensure that the tibial and femoral components are properly aligned. Misalignment can restrict movement and contribute to the inability to fully extend the knee.
+
+3. **Adjust Tibial Bearing Height**: If applicable, select a tibial bearing that allows for proper alignment and function, ensuring it does not create excessive joint distraction.
+
+4. **Trial Reduction**: Perform a trial reduction to confirm the fit and interaction of the components, ensuring that the knee can achieve full extension.
+
+5. **Reassess and Modify**: If necessary, make adjustments to the component heights or alignment based on the trial results to facilitate better knee mechanics.
+
+These steps aim to enhance the function of the knee joint and ensure that full extension is achievable postoperatively.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 19
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+If the knee is too recurvatum in flexion and extension, what are the steps we evaluate to change the construct? What can we do with the bumper in this scenario?
+
+ANSWER:
+If the knee is too recurvatum in flexion and extension, the following steps should be evaluated to change the construct:
+
+1. **Assess Soft Tissue Tension**: Evaluate the soft tissue tension around the knee joint. Excessive tension may contribute to the recurvatum.
+
+2. **Check Component Alignment**: Ensure that the tibial and femoral components are properly aligned. Misalignment can lead to improper knee mechanics and contribute to recurvatum.
+
+3. **Adjust Tibial Bearing**: Select a tibial bearing that allows for proper alignment and function. Ensure that it does not create excessive joint distraction when the knee is in extension.
+
+4. **Trial Reduction**: Perform a trial reduction to confirm the fit and interaction of the components. This may involve hyperflexing the knee and ensuring that the components articulate correctly.
+
+5. **Reassess and Modify**: If necessary, make adjustments to the component heights or alignment based on the trial results to facilitate better knee mechanics and reduce recurvatum.
+
+Regarding the bumper, if the knee is too recurvatum, adjustments may be made to the bumper pad to help stabilize the knee joint and improve the overall alignment and function of the construct. Ensuring that the bumper pad is properly seated and aligned can help in maintaining the correct joint mechanics.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 20
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+If the patella is laterally dislocating, what can be done to modify the tibia?
+
+ANSWER:
+If the patella is laterally dislocating, the following modifications can be made to the tibia:
+
+1. **Adjust Tibial Cutting Guide**: Ensure that the prongs of the tibial cutting guide are properly aligned and secured to sit on the plateau of the tibia. This alignment is crucial for achieving the correct angle and position of the tibial component.
+
+2. **Modify the Tibial Component Position**: If the tibial component is not positioned correctly, adjustments may be necessary to improve the alignment and tracking of the patella. This may involve repositioning the tibial component to provide better support for the patella.
+
+3. **Resurface the Patella**: If not already done, consider resurfacing the patella with a dome patella replacement component to improve its tracking and reduce the likelihood of dislocation.
+
+4. **Evaluate Soft Tissue Integrity**: Assess the condition of the soft tissues around the knee. If there is excessive tension or inadequate soft tissue support, consider mobilizing or reconstructing the soft tissues to improve stability and alignment.
+
+5. **Trial Reduction**: Perform a trial reduction to confirm the fit and interaction of the components, ensuring that the patella tracks properly during flexion and extension.
+
+These modifications aim to enhance the stability of the knee joint and reduce the risk of patellar dislocation.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 21
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What are the choices for the tibial component in the setting of a distal femur fracture? How do I decide which is the best option?
+
+ANSWER:
+In the setting of a distal femur fracture, the choices for the tibial component include:
+
+1. **Cemented Stem**: This option involves cementing the tibial component into the tibia, which can provide stability, especially in cases where bone quality is compromised.
+
+2. **Fixed Hinge Tibial Component**: This component is designed to work with the femoral component to allow for articulation and stability during movement.
+
+3. **Tibial Passive Stem**: This option may be used depending on the specific requirements of the surgical procedure and the patient's anatomy.
+
+To decide which is the best option, consider the following factors:
+
+- **Fracture Characteristics**: Assess the type and extent of the distal femur fracture. More complex fractures may benefit from the stability provided by a cemented stem.
+
+- **Patient Anatomy**: Evaluate the patient's anatomy and the amount of remaining bone. If there is significant bone loss, a cemented option may provide better support.
+
+- **Surgical Goals**: Consider the goals of the surgery, including the desired range of motion and stability of the knee joint postoperatively.
+
+- **Soft Tissue Integrity**: Assess the condition of the surrounding soft tissues, as this may influence the choice of tibial component.
+
+By evaluating these factors, you can determine the most appropriate tibial component for the specific clinical scenario.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 22
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+If I can’t get diaphyseal fixation in the femur, what are the options?
+
+ANSWER:
+If diaphyseal fixation in the femur cannot be achieved, the following options may be considered:
+
+1. **Cemented Stem**: Use a cemented stem to provide stability when adequate bone quality for mechanical fixation is not available. Ensure that no cement adheres to the HA coated collar to promote proper bony ingrowth.
+
+2. **Extra-Cortical Plate**: If the femoral component has an extra-cortical plate incorporated into the shaft, implant-grade titanium alloy screws can be used to secure the component, providing additional stability.
+
+3. **Alternative Fixation Techniques**: Depending on the specific clinical scenario, consider using alternative fixation methods such as plates or external fixators to provide additional support.
+
+4. **Soft Tissue Management**: Evaluate the soft tissue integrity around the knee. If there is inadequate soft tissue coverage, mobilizing remaining musculature may be necessary to achieve proper coverage around the prosthesis.
+
+5. **Evaluate for Additional Procedures**: In some cases, additional surgical procedures may be necessary to enhance fixation or stability, such as bone grafting or the use of adjunctive devices.
+
+These options should be evaluated based on the individual patient's anatomy, the extent of the fracture, and the overall surgical plan.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 23
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+When should a distal femoral replacement be used or considered?
+
+ANSWER:
+A distal femoral replacement should be used or considered in the following situations:
+
+1. **Severe Arthropathy**: For patients suffering from severe arthropathy of the distal femur that do not respond to conservative therapy or better alternative surgical treatments.
+
+2. **Trauma**: Surgical intervention for severe trauma to the distal femur.
+
+3. **Revision Arthroplasties**: In cases of failed previous prostheses where reconstruction is necessary.
+
+4. **Oncology Indications**: For patients with primary bone tumors, secondary tumors arising in bone, or malignant diseases such as osteogenic sarcoma.
+
+5. **Non-neoplastic Conditions**: When non-neoplastic conditions affect the shafts of long bones and require radical resection and replacement.
+
+6. **Pathological Fractures**: In patients at risk of pathological fractures due to bone disease.
+
+The decision to use a distal femoral replacement should be based on a thorough evaluation of the patient's condition, the extent of the disease or injury, and the potential for improved function and pain relief.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 24
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What can I do with the distal femoral component if I can’t close the retinaculum?
+
+ANSWER:
+If you cannot close the retinaculum after placing the distal femoral component, consider the following options:
+
+1. **Evaluate Soft Tissue Integrity**: Assess the condition of the soft tissues around the knee. If there is excessive tension or inadequate soft tissue coverage, consider mobilizing or reconstructing the soft tissues to improve stability and alignment.
+
+2. **Reassess Component Positioning**: Check the alignment and positioning of the tibial and femoral components. Misalignment can lead to tension on the retinaculum, making closure difficult.
+
+3. **Use of Sutures**: If possible, use sutures to reattach any available soft tissue structures to the appropriate anatomical locations, which can help provide additional support and stability.
+
+4. **Close with Knee in Extension**: If soft tissue integrity is compromised, consider closing the wound with the knee in full extension to minimize tension on the retinaculum.
+
+5. **Postoperative Care**: Implement a postoperative care plan that includes monitoring for complications and ensuring that the knee is stabilized appropriately.
+
+These steps aim to enhance the stability of the knee joint and ensure proper healing after surgery.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 25
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+If I have patellar impingement on the mechanism, what are my choices to modify the construct?
+
+ANSWER:
+If there is patellar impingement on the mechanism, the following choices can be considered to modify the construct:
+
+1. **Adjust Tibial Component Position**: Reassess the positioning of the tibial component to ensure it is not contributing to the lateral dislocation of the patella. Proper alignment can help improve patellar tracking.
+
+2. **Modify Tibial Bearing Height**: Select a tibial bearing that allows for better alignment and tracking of the patella. Adjusting the height may help alleviate impingement.
+
+3. **Resurface the Patella**: If not already done, consider resurfacing the patella with a dome patella replacement component to improve its tracking and reduce the likelihood of impingement.
+
+4. **Evaluate Soft Tissue Integrity**: Assess the condition of the soft tissues around the knee. If there is excessive tension or inadequate soft tissue support, consider mobilizing or reconstructing the soft tissues to improve stability and alignment.
+
+5. **Trial Reduction**: Perform a trial reduction to confirm the fit and interaction of the components, ensuring that the patella tracks properly during flexion and extension.
+
+These modifications aim to enhance the stability of the knee joint and reduce the risk of patellar impingement.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 26
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+What are the bumper and poly options in my construct?
+
+ANSWER:
+In the construct for the distal femoral replacement, the following options are available for the bumper and polyethylene (poly) components:
+
+1. **Bumper Pad**: 
+   - The bumper pad is inserted under the anterior edge of the tibial component. It is designed to provide cushioning and support during movement.
+   - If the bumper pad is not seated fully, a general impactor can be used to secure it in place.
+
+2. **Polyethylene Components**: 
+   - The tibial component includes a polyethylene bearing that articulates with the femoral component. This is essential for the function of the knee joint.
+
+These components work together to ensure proper alignment, stability, and function of the knee joint following the distal femoral replacement procedure.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 27
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+Is this a central femoral hinge or posterior consular hinge? Which has better quad efficiency and lower dislocation rate?
+
+ANSWER:
+The document does not explicitly specify whether the system uses a central femoral hinge or a posterior condylar hinge. However, in general orthopedic practice:
+
+- **Posterior Condylar Hinges** are often associated with better quadriceps efficiency and lower dislocation rates compared to central femoral hinges. This is due to the anatomical alignment and biomechanics that allow for more natural movement and stability during flexion and extension.
+
+For specific information regarding the hinge type used in the Onkos distal femoral replacement and their comparative performance, it may be necessary to consult additional resources or product specifications from Onkos.
+
+
+
+---------------------------------------------------
+
+
+
+QUESTION-ANSWER PAIR 28
+
+QUESTION:
+Based on the document titled Distal Femoral Replacement Surgical Technique: Passive Fixed Hinge Tibia Option from Onkos, answer this question:
+
+Is there an all poly tibial baseplate option if I wanted to use it as a spacer?
+
+ANSWER:
+The document does not explicitly mention the availability of an all-poly tibial baseplate option for use as a spacer. It primarily discusses the components and techniques related to the tibial insertion and preparation.
+
+For specific information regarding the availability of an all-poly tibial baseplate option, it may be necessary to consult additional resources or product catalogs related to the Onkos distal femoral replacement system.
+
+
+
+---------------------------------------------------
+
+
+

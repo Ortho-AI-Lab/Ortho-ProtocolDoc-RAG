@@ -6,4 +6,4 @@ src/reference_docs/*
 src/retrieval/_vector_store_llamaparse/*
 src/retrieval/_vector_store_naive/*
 
-
+__pycache__/

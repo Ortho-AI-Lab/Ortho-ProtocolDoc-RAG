@@ -8,23 +8,32 @@ sys.path.append(str(dir_path))
 from src.retrieval.populate_vector_store import (
     populate_vector_store_llamaparse,
     populate_vector_store_naive,
+    populate_vector_store_llamaparse_multiple_docs,
+    populate_vector_store_naive_multiple_docs,
     get_vector_store_llamaparse,
     get_vector_store_naive,
+    get_vector_store_llamaparse_multiple_docs,
+    get_vector_store_naive_multiple_docs,
 )
 
 from src.llm.openai import build_chat_openai
 
 
 if __name__ == "__main__":
-    # index_smart = populate_vector_store_llamaparse()
-    # index_naive = populate_vector_store_naive()
+    # populate_vector_store_llamaparse()
+    # populate_vector_store_naive()
+    # populate_vector_store_llamaparse_multiple_docs(subset = ["OSSZimmer_Distal"])
+    # populate_vector_store_naive_multiple_docs()
+    
 
-    index_smart = get_vector_store_llamaparse()
-    index_naive = get_vector_store_naive()
 
-    # question = "When should a cement restrictor be used? In your response, tell me which company and document provided this information."
+    idx = get_vector_store_llamaparse_multiple_docs()["OSSZimmer_Distal"]
 
-    question = "Based on the DePuy Orthogenesis Limb Preservation System Surgical Techniques reference document, answer this question: How long is the distal femoral component?"
 
-    print(str(index_smart.as_query_engine(llm=build_chat_openai()).query(question)))
-    print(str(index_naive.as_query_engine(llm=build_chat_openai()).query(question)))
+    model = build_chat_openai()
+
+    chat_engine = idx.as_chat_engine(llm=model)
+
+    retriever = idx.as_retriever()
+
+    print(retriever.retrieve("How long is the distal femoral component?"))
