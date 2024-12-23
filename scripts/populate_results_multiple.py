@@ -15,16 +15,14 @@ from src.retrieval.populate_vector_store import (
     get_vector_store_naive_multiple_docs,
     get_vector_store_llamaparse_multiple_docs,
     stem_to_company,
-    company_to_document_title
+    company_to_document_title,
 )
 from src.llm.openai import build_chat_openai
-
 
 
 llamaparse_vector_store_dict = get_vector_store_llamaparse_multiple_docs()
 naive_vector_store_dict = get_vector_store_naive_multiple_docs()
 top_k = 3
-
 
 
 analysis_path = dir_path / "analysis"
@@ -36,7 +34,9 @@ Be concise. Do not answer in Markdown format, just plain text.
 """
 
 
-def build_query_engine_tools(type: Literal["llamaparse", "naive"]) -> dict[str, QueryEngineTool]:
+def build_query_engine_tools(
+    type: Literal["llamaparse", "naive"]
+) -> dict[str, QueryEngineTool]:
     output = {}
     for key in llamaparse_vector_store_dict.keys():
         company = stem_to_company[key]
@@ -61,12 +61,16 @@ def build_query_engine_tools(type: Literal["llamaparse", "naive"]) -> dict[str, 
     return output
 
 
-def build_retriever_tools(type: Literal["llamaparse", "naive"]) -> dict[str, FunctionTool]:
+def build_retriever_tools(
+    type: Literal["llamaparse", "naive"]
+) -> dict[str, FunctionTool]:
     class _RetrieverInput(BaseModel):
         query: str = Field(
             description="Natural language query to be used for retrieval."
         )
+
     output_dict = {}
+
     def retrieve_from_llamaparse(query, key):
         llamaparse_retriever = llamaparse_vector_store_dict[key].as_retriever(
             similarity_top_k=top_k
@@ -80,6 +84,7 @@ def build_retriever_tools(type: Literal["llamaparse", "naive"]) -> dict[str, Fun
             if i != len(retrieved_nodes) - 1:
                 output += "\n\n\n"
         return output
+
     def retrieve_from_naive(query, key):
         naive_retriever = naive_vector_store_dict[key].as_retriever(
             similarity_top_k=top_k
@@ -93,6 +98,7 @@ def build_retriever_tools(type: Literal["llamaparse", "naive"]) -> dict[str, Fun
             if i != len(retrieved_nodes) - 1:
                 output += "\n\n\n"
         return output
+
     for key in llamaparse_vector_store_dict.keys():
         company = stem_to_company[key]
         title = company_to_document_title[company]
@@ -127,7 +133,7 @@ def build_agent_with_llamaparse_retriever():
         tools=retriever_tools + query_tools,
         llm=build_chat_openai(),
         system_prompt=agent_system_prompt,
-        verbose=True
+        verbose=True,
     )
     return agent
 
@@ -142,7 +148,7 @@ def build_agent_with_naive_retriever():
         tools=retriever_tools + query_tools,
         llm=build_chat_openai(),
         system_prompt=agent_system_prompt,
-        verbose=True
+        verbose=True,
     )
     return agent
 
@@ -189,9 +195,7 @@ if __name__ == "__main__":
         results_dir = analysis_path / "results_multiple_docs" / document_title_wo_spaces
         results_dir.mkdir(parents=True, exist_ok=True)
 
-        question_prefix = (
-            f"Based on the document titled {document_title} from {company_name}, answer this question:\n\n"
-        )
+        question_prefix = f"Based on the document titled {document_title} from {company_name}, answer this question:\n\n"
 
         questions = [question_prefix + question for question in base_questions]
 
