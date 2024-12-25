@@ -27,15 +27,15 @@ if __name__ == "__main__":
     # populate_vector_store_llamaparse_multiple_docs(subset = ["OSSZimmer_Distal"])
     # populate_vector_store_naive_multiple_docs()
 
-    populate_vector_store_llamaparse_multiple_docs_multimodal(
-        subset=[
-            # "OSSZimmer_Distal",
-            # "Depuy_distal",
-            "onko_distal",
-            "stryker_cut",
-        ]
-    )
-    # response = get_retriever_llamaparse_multiple_docs_multimodal(subset=["OSSZimmer_Distal"])["OSSZimmer_Distal"].query(
-    #     "What is the maximum stem diameter?"
+    # populate_vector_store_llamaparse_multiple_docs_multimodal(
+    #     subset=[
+    #         # "OSSZimmer_Distal",
+    #         # "Depuy_distal",
+    #         "onko_distal",
+    #         "stryker_cut",
+    #     ]
     # )
-    # print(response)
+    response = get_retriever_llamaparse_multiple_docs_multimodal()["stryker_cut"].query(
+        "What is the maximum stem diameter?"
+    )
+    print(response)
