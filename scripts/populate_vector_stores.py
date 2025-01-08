@@ -5,7 +5,7 @@ dir_path = Path(__file__).resolve().parent.parent
 sys.path.append(str(dir_path))
 
 
-from src.retrieval.populate_vector_store import (
+from agents_llamaindex.retrieval.populate_vector_store import (
     populate_vector_store_llamaparse,
     populate_vector_store_naive,
     populate_vector_store_llamaparse_multiple_docs,
@@ -18,7 +18,7 @@ from src.retrieval.populate_vector_store import (
     get_retriever_llamaparse_multiple_docs_multimodal,
 )
 
-from src.llm.openai import build_chat_openai
+from agents_llamaindex.llm.openai import build_chat_openai
 
 
 if __name__ == "__main__":

@@ -9,12 +9,12 @@ dir_path = Path(__file__).resolve().parent.parent
 sys.path.append(str(dir_path))
 
 
-from src.retrieval.populate_vector_store import (
+from agents_llamaindex.retrieval.populate_vector_store import (
     get_retriever_llamaparse_multiple_docs_multimodal,
     stem_to_company,
     company_to_document_title,
 )
-from src.llm.openai import build_chat_openai
+from agents_llamaindex.llm.openai import build_chat_openai
 
 
 analysis_path = dir_path / "analysis"
