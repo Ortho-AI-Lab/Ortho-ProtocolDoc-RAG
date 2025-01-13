@@ -1,14 +1,14 @@
 Question: How long is the distal femoral component?
-Answer: According to the surgical protocol document, the dimensions of the distal femoral component are:
+Answer: According to the surgical protocol, the distal femoral component comes in two sizes:
 
-Small size:
-- M/L (Medial/Lateral): 52mm
-- A/P (Anterior/Posterior): 45mm
+Small: 
+- M/L width: 52mm
+- A/P length: 45mm
 
-Standard size:
-- M/L: 60mm
-- A/P: 54mm
+Standard:
+- M/L width: 60mm 
+- A/P length: 54mm
 
-Both sizes also have a fixed valgus angle of 6 degrees built into the design.
+The specific length needed would depend on which size (small or standard) is selected based on the patient's anatomy.
 
 

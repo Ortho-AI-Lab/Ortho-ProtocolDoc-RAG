@@ -90,8 +90,9 @@ def get_img_uri(img):
 
 
 def analyze_image(data_uri, system_prompt=""):
+    time.sleep(10.0)
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="gpt-4o",
         messages=[
             {"role": "system", "content": system_prompt},
             {
@@ -103,7 +104,7 @@ def analyze_image(data_uri, system_prompt=""):
         temperature=0,
         top_p=0.1,
     )
-    time.sleep(0.0)
+    time.sleep(10.0)
     return response.choices[0].message.content
 
 
@@ -172,6 +173,7 @@ def populate_jsons():
     docs = []
 
     for path in file_paths:
+        time.sleep(10.0)
         doc = {"filename": path.name}
         text = extract_text_from_doc(path)
         doc["text"] = text
@@ -325,8 +327,6 @@ Stay concise with your answer, replying specifically to the input prompt without
 
     model = "gpt-4o"
 
-    questions = read_questions(analysis_path / "questions.txt")
-
     for file_stem in file_stems:
         company_name = stem_to_company[file_stem]
         document_title = company_to_document_title[company_name]
@@ -338,6 +338,7 @@ Stay concise with your answer, replying specifically to the input prompt without
 
         question_prefix = f"Based on the document titled {document_title} from {company_name}, answer this question:\n\n"
 
+        questions = read_questions(analysis_path / "questions.txt")
         questions = [question_prefix + question for question in questions]
 
         answers = []
@@ -354,12 +355,15 @@ Stay concise with your answer, replying specifically to the input prompt without
                 print(
                     f"[grey37]{match['content'][:100]}{'...' if len(match['content']) > 100 else ''}[/[grey37]]\n\n"
                 )
+            reply = "test"
             reply = generate_output(
                 ex, matching_content, system_prompt=system_prompt, model=model
             )
             print(
                 f"[turquoise4][b]REPLY:[/b][/turquoise4]\n\n[spring_green4]{reply}[/spring_green4]\n\n--------------\n\n"
             )
+
+            time.sleep(2.0)
 
             answers.append(reply)
 

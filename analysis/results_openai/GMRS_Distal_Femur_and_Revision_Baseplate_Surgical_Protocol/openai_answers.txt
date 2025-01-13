@@ -1,315 +1,201 @@
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
 
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
-
 How long is the distal femoral component?
-Answer: The content provided does not specify the length of the distal femoral component. Therefore, I cannot provide an answer based on this document.
+Answer: The content provided does not specify the length of the distal femoral component.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 Is there a press fit or cementless option?
-Answer: The content provided does not specify whether there is a press fit or cementless option for the Orthogenesis Limb Preservation System from DePuy. Based on the content, the focus is on cemented stem application options and mentions of porous stem application options, which could imply potential for cementless techniques, but it does not explicitly confirm a press fit or cementless option.
+Answer: The content provided does not mention a press fit or cementless option for the GMRS Distal Femur and Revision Baseplate. It describes the use of bone cement for implant fixation. Therefore, based on the content, it appears that a cementless option is not available.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 How do you check rotation?
-Answer: The content provided is not relevant to the input prompt about how to check rotation in the context of the Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet or the Orthogenesis Limb Preservation System Surgical Techniques from DePuy. Therefore, I cannot provide an answer based on the provided content.
+Answer: To check rotation in the GMRS Distal Femur and Revision Baseplate procedure, you use a straight edge, such as the Distal Femoral Template, to mark the anterior cortex of the distal femur above the resection level. This mark should align with the trochlear groove of the distal femur. The alignment marking on the implant stem should match this mark to ensure correct rotational orientation. This can be verified during trial evaluations.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the shortest construct I can use?
-Answer: The content provided is not relevant to the input prompt, which asks about the shortest construct from specific surgical technique documents from Zimmer Biomet and DePuy. Without the specific information from those documents, I cannot accurately answer the question regarding the shortest construct.
+Answer: The shortest construct you can use with the GMRS system involves using the small distal femoral component with the small cemented stems, which are available in diameters of 8mm and 9mm. These stems have an 11mm replacement length without the extra-cortical porous-coated body section.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What degree do I cut the tibia in?
-Answer: I'm sorry, but I can't determine the specific degree to cut the tibia based on the provided content.
+Answer: The content does not specify the exact degree to cut the tibia. However, it mentions considering the native joint line and patella tracking, and suggests resecting 16mm from the native joint line for hinge procedures. For specific degrees of resection, it is recommended to consult the full surgical protocol or guidelines directly.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are the poly sizes?
-Answer: I don't have the specific information on the poly sizes from the documents titled "Segmental Distal Femoral Replacement Surgical Technique" from Zimmer Biomet or "Orthogenesis Limb Preservation System Surgical Techniques" from DePuy. The content provided does not include details on poly sizes related to these documents.
+Answer: I'm sorry, but the content provided does not mention the poly sizes for the GMRS Distal Femur and Revision Baseplate.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the minimum stem diameter?
-Answer: The content provided is not relevant to answer the specific question about the "minimum stem diameter" from the documents titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet or Orthogenesis Limb Preservation System Surgical Techniques from DePuy. Therefore, I cannot provide an answer based on the provided content.
+Answer: The minimum stem diameter for the GMRS Distal Femur and Revision Baseplate is 8mm.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are the body segment lengths?
-Answer: The content provided does not specify the body segment lengths for the particular surgical techniques from Stryker, Zimmer Biomet, or DePuy. Therefore, I cannot provide an answer based on the content. If you have access to those specific documents, please refer to them for detailed information on body segment lengths.
+Answer: The content provided does not specify the body segment lengths in the document titled "GMRS Distal Femur and Revision Baseplate Surgical Protocol." If you are referring to specific component sizes, the small femoral component is 52mm (M/L) by 45mm (A/P), and the standard femoral component is 60mm (M/L) by 54mm (A/P). However, for detailed body segment lengths beyond component sizes, additional information from the document would be needed.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the maximum stem diameter?
-Answer: The content provided does not include information on the maximum stem diameter for the Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet or the Orthogenesis Limb Preservation System Surgical Techniques from DePuy. Therefore, I cannot provide an answer based on the given content. For specific details on the maximum stem diameter, please refer to the respective documents from Zimmer Biomet and DePuy.
+Answer: The maximum stem diameter mentioned in the GMRS Distal Femur and Revision Baseplate Surgical Protocol is 17mm.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are cone sizes?
-Answer: The content provided discusses Tibial Cone sizes in the context of the GMRS Distal Femur and Revision Baseplate Surgical Protocol by Stryker. It does not provide information about cone sizes from the documents by Zimmer Biomet or DePuy. Therefore, I cannot answer your question regarding cone sizes based on the documents titled "Segmental Distal Femoral Replacement Surgical Technique" from Zimmer Biomet or "Orthogenesis Limb Preservation System Surgical Techniques" from DePuy.
+Answer: The cone sizes mentioned in the GMRS Distal Femur and Revision Baseplate Surgical Protocol are labeled as A, B, C, D, and E, with additional sizes 1 through 7. These sizes are used to determine the appropriate fit and depth for tibial cone augments during surgery.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are the augment sizes on the tibia?
-Answer: The content provided does not contain information about the augment sizes on the tibia for the Orthogenesis Limb Preservation System from DePuy. Therefore, I am unable to answer the question based on the content provided.
+Answer: The augment sizes on the tibia range from 1 to 8.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What’s the minimum total distal femur resection?
-Answer: The minimum total distal femur resection is 70 mm when using the XX-small distal femoral replacement component, and 80 mm for the X-small component.
+Answer: The content provided does not specifically state the minimum total distal femur resection. However, it does mention that it is preferable to resect the femur a millimeter or two distal to the marked resection level to allow the facing reamer to plane accurately at a 90° angle.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 Is there a non-nickel containing option?
-Answer: The content provided does not mention the availability of a non-nickel containing option for the GMRS Distal Femur and Revision Baseplate. Therefore, based on the content, I cannot determine if there is a non-nickel containing option.
+Answer: The provided content does not mention any non-nickel containing options for the GMRS Distal Femur and Revision Baseplate. Therefore, based on the document, it is unclear if there is a non-nickel containing option available.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the tibial boss length and diameter?
-Answer: The content provided does not contain information about the tibial boss length and diameter. I do not have the specific details from the documents mentioned in the prompt.
+Answer: The content provided does not specify the tibial boss length and diameter. Therefore, I cannot provide that information based on the document.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the minimum reamer I have to use on the femur and tibia?
-Answer: The content provided does not contain specific information from the documents by Zimmer Biomet or DePuy. Therefore, I cannot directly answer the question about the minimum reamer size for the femur and tibia based on those documents.
+Answer: The content provided does not specify the minimum reamer size for the tibia. However, for the femur, the canal should be reamed to 2mm larger than the selected stem diameter. The available stem diameters range from 8mm to 17mm, so the minimum reamer size for the femur would be 10mm if using the smallest stem diameter of 8mm. For the tibia, unfortunately, the specific minimum reamer size is not mentioned in the provided content.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 Is there a distal femur resection guide for measurement?
-Answer: Yes, the GMRS Distal Femur and Revision Baseplate surgical protocol includes a distal femur resection guide for measurement. The Distal Femoral Template is used to guide the resection to a level that can be reproduced by the available implants, helping to ensure proper alignment and leg length.
+Answer: Yes, there is a distal femur resection guide for measurement. The protocol mentions using a Distal Femoral Template to guide the resection to a level that can be reproduced by the available implants. This template is placed on the bone to coincide with the distal condyles of the femur, and the resection level is marked on the anterior cortex of the femur.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the valgus angle of the distal femoral cut?
-Answer: The content provided does not specify the valgus angle of the distal femoral cut.
+Answer: The content provided does not specify the valgus angle of the distal femoral cut. Therefore, I cannot provide an answer based on this document.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 If the knee does not fully extend, what are the steps we evaluate to change the construct?
-Answer: The content provided does not specifically address the steps to evaluate changes to the construct if the knee does not fully extend. Therefore, I cannot provide an answer based on this content.
+Answer: If the knee does not fully extend, the protocol suggests evaluating the construct by:
+
+1. Checking if the prosthetic construct is too long and rechecking the length of the distal femoral bone resected against the assembled prosthesis.
+2. If too long, consider removing additional bone from the femur or tibia, adjusting the length of the prosthesis, or using a thinner insert.
+3. Assessing patellar tracking and distal pulses, as these are crucial for determining the adequacy of the resection length.
+4. If necessary, adjusting the insert thickness or Trial Bumper angle to ensure proper extension and stability.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 If the knee is too recurvatum in flexion and extension, what are the steps we evaluate to change the construct? What can we do with the bumper in this scenario?
-Answer: The content provided does not contain information relevant to the input prompt about steps to evaluate and change the construct if the knee is too recurvatum in flexion and extension, nor about the use of the bumper in such a scenario. Therefore, I cannot directly answer the question based on the content provided.
+Answer: To address a knee that is too recurvatum in flexion and extension, the protocol suggests adjusting the construct by evaluating and potentially changing the insert thickness and the angle of the Trial Bumper. Specifically, you can adjust the Trial Bumper angle as required to achieve the desired knee alignment.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 If the patella is laterally dislocating, what can be done to modify the tibia?
-Answer: The content provided does not address the specific question about what can be done to modify the tibia if the patella is laterally dislocating. Therefore, I cannot provide an answer based on the content. Typically, in such cases, surgical techniques might involve adjusting the alignment or positioning of the tibial component to improve patellar tracking, but specific details would be found in the relevant surgical protocol documents.
+Answer: The content provided does not directly address the issue of a laterally dislocating patella or how to modify the tibia to address this problem. Generally, to address a laterally dislocating patella, surgical techniques might involve adjusting the alignment of the components, soft tissue balancing, or lateral release. However, specific modifications to the tibia would depend on a detailed surgical assessment and are not outlined in the provided protocol.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are the choices for the tibial component in the setting of a distal femur fracture? How do I decide which is the best option?
-Answer: The content provided does not directly address the specific document from Stryker, Zimmer Biomet, or DePuy. However, based on the information available, the choices for the tibial component in the setting of a distal femur fracture include:
-
-1. Short Non-Modular Tibial Component
-2. Modular Tibial Component without a Stem
-3. Long Non-Modular Tibial Component
-4. Modular Tibial Component with a Stem
-
-The decision on which option is best depends on the specific needs of the patient, such as the required stability, the need for customization, and the extent of the fracture. Preoperative planning and assessment are crucial in determining the best fit and ensuring proper alignment and stability.
+Answer: The content provided does not specify the choices for the tibial component in the setting of a distal femur fracture or how to decide the best option. Based on my knowledge, when choosing a tibial component for such a setting, considerations typically include the patient's anatomy, the extent of bone loss, and the need for stability and alignment. The decision would often involve selecting components that best match the patient's needs while ensuring proper fit and function. Consulting with the surgical protocol or a specialist is recommended for specific guidance.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 If I can’t get diaphyseal fixation in the femur, what are the options?
-Answer: The content provided does not directly address the options for achieving diaphyseal fixation in the femur if it cannot be obtained. Therefore, I cannot provide an answer based on the content given. However, generally in surgical practice, if diaphyseal fixation in the femur is not possible, alternative options might include using a shorter stem, considering a different fixation method like cemented fixation, or utilizing supplemental fixation devices. Consulting with the specific surgical protocol or a specialist for tailored solutions would be advisable.
+Answer: The content provided does not directly address the question regarding options if diaphyseal fixation in the femur cannot be achieved. However, generally in such cases, alternative fixation methods might include using longer stems, cemented fixation, or modular implants designed for proximal fixation. Consulting the specific surgical protocol or a specialist for guidance tailored to the situation is advisable.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 When should a distal femoral replacement be used or considered?
-Answer: A distal femoral replacement should be considered for patients with severe damage to the distal femur, often due to trauma or disease. It aims to restore mobility and alleviate pain, improving the overall quality of life for patients.
+Answer: The content provided does not specify when a distal femoral replacement should be used or considered. However, generally, distal femoral replacements are typically considered in cases of severe bone loss due to trauma, tumors, or failed previous surgeries where reconstructing the distal femur is necessary.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What can I do with the distal femoral component if I can’t close the retinaculum?
-Answer: The content provided does not address the specific question about what to do with the distal femoral component if you cannot close the retinaculum. Therefore, based on general surgical knowledge, if you encounter difficulty closing the retinaculum, you may need to assess if there is excessive tension or bulk from the implant. In such cases, consider adjusting the soft tissue tension, possibly revising the component position, or consulting with the surgical team for alternative closure techniques.
+Answer: I don't have the specific information from the document titled "GMRS Distal Femur and Revision Baseplate Surgical Protocol" from Stryker regarding what to do if you can't close the retinaculum. You may need to consult the document directly or seek guidance from a surgical expert familiar with this protocol.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 If I have patellar impingement on the mechanism, what are my choices to modify the construct?
-Answer: The content provided does not directly address the issue of patellar impingement on the mechanism or provide specific options to modify the construct in such a scenario. Therefore, I cannot derive an answer from the given content. However, generally speaking, addressing patellar impingement might involve adjusting the alignment, rotation, or positioning of the implant components to improve patellar tracking or considering the use of different component sizes or designs. It is best to consult the specific surgical protocol or a medical professional for precise guidance.
+Answer: If you have patellar impingement on the mechanism, you can consider adjusting the rotation of the femoral component, as slight external rotation may aid in patellar tracking. Additionally, you might evaluate the prosthetic construct's length and consider removing additional bone from the tibial side if needed. Adjusting the insert thickness or the angle of the bumper could also be options to modify the construct and improve patellar tracking.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are the bumper and poly options in my construct?
-Answer: The content provided is not relevant to the input prompt, which asks about bumper and poly options in constructs from documents related to Zimmer Biomet and DePuy. The content is specific to Stryker's GMRS Distal Femur and Revision Baseplate, and does not provide information on Zimmer Biomet or DePuy systems. Therefore, I cannot provide an answer based on the content provided.
+Answer: The bumper options in your construct are either a neutral bumper or a 3° flexion bumper.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
-
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 Is this a central femoral hinge or posterior consular hinge? Which has better quad efficiency and lower dislocation rate?
-Answer: The content provided does not address whether the hinge mechanism is a central femoral hinge or a posterior consular hinge, nor does it discuss quad efficiency or dislocation rates. Therefore, I cannot determine which hinge type has better quad efficiency and a lower dislocation rate based on this content.
+Answer: The content provided does not specify whether the GMRS Distal Femur uses a central femoral hinge or a posterior condylar hinge, nor does it address quad efficiency or dislocation rates. Therefore, I cannot determine from the document which type of hinge is used or which has better quad efficiency and lower dislocation rates.
 
 
 -----------------
 Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
 
-Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
-
 Is there an all poly tibial baseplate option if I wanted to use it as a spacer?
-Answer: The content provided does not mention an all-poly tibial baseplate option. Therefore, I cannot confirm if such an option exists based on the content. You may need to consult the specific surgical protocol documents from Zimmer Biomet or DePuy for information on their tibial baseplate options.
+Answer: The content provided does not mention an all-poly tibial baseplate option for use as a spacer. Therefore, based on the information given, it is unclear if an all-poly tibial baseplate option is available for this purpose.
 
 

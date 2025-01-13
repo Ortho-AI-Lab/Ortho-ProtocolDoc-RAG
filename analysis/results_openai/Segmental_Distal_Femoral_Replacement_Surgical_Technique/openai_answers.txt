@@ -1,254 +1,205 @@
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
 
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
-
 How long is the distal femoral component?
-Answer: I don't have the specific information from the document "Orthogenesis Limb Preservation System Surgical Techniques from DePuy" regarding the length of the distal femoral component.
+Answer: The content provided does not specify the exact length of the distal femoral component for the Segmental Distal Femoral Replacement. Therefore, I can't provide an exact answer based on the document.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 Is there a press fit or cementless option?
-Answer: The content provided does not specifically mention if there is a press fit or cementless option for the Orthogenesis Limb Preservation System from DePuy. Therefore, I cannot determine this from the given information.
+Answer: The content provided does not specify whether there is a press fit or cementless option for the Segmental Distal Femoral Replacement. It details the cementing process, which suggests the use of cement in the procedure. Therefore, based on the content, a cementless option is not mentioned.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 How do you check rotation?
-Answer: I don't have the information needed to answer your question about checking rotation based on the document titled "Orthogenesis Limb Preservation System Surgical Techniques" from DePuy.
+Answer: To check rotation during a Segmental Distal Femoral Replacement, a straight edge like the Distal Femoral Template is used to mark the anterior cortex of the distal femur above the resection level. This mark aligns with the trochlear groove and serves as a reference for rotational orientation. During trial evaluations, this alignment can be verified, and the alignment marking on the implant stem should match this mark on the anterior cortex.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the shortest construct I can use?
-Answer: The shortest construct you can use with the Orthogenesis Limb Preservation System is 175 mm, which includes the proximal femoral body (70 mm), total segmental component (55 mm), and distal femoral component (50 mm).
+Answer: The shortest construct you can use for a Segmental Distal Femoral Replacement is a 7 cm expandable distal femoral trial with an 8.5 cm trial sleeve and quick connect segment.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What degree do I cut the tibia in?
-Answer: I don't have the specific information from the document titled "Orthogenesis Limb Preservation System Surgical Techniques from DePuy" to answer your question about the degree to cut the tibia. Please refer to that specific document for detailed instructions.
+Answer: The content provided does not specify the exact degree to cut the tibia for a segmental distal femoral replacement. It focuses on the preparation steps and considerations but does not mention a specific cutting angle or degree. Please refer to the specific surgical technique guide or consult with a surgical professional for precise instructions.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are the poly sizes?
-Answer: I'm sorry, but I can't determine the poly sizes based on the provided content.
+Answer: The content provided does not mention specific poly sizes. Therefore, I cannot provide an answer based on the document.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the minimum stem diameter?
-Answer: I don't have the specific information from the document titled "Orthogenesis Limb Preservation System Surgical Techniques from DePuy" to determine the minimum stem diameter.
+Answer: The minimum stem diameter is 8mm.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are the body segment lengths?
-Answer: I'm sorry, but I can't provide information on the body segment lengths from the document titled "Orthogenesis Limb Preservation System Surgical Techniques" from DePuy based on the content provided.
+Answer: The body segment lengths for the Segmental Distal Femoral Replacement range from 3 cm to 23 cm. These segments can be combined to achieve the desired total construct length.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the maximum stem diameter?
-Answer: I don't have the information on the maximum stem diameter from the Orthogenesis Limb Preservation System Surgical Techniques by DePuy.
+Answer: The maximum stem diameter is 17mm.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are cone sizes?
-Answer: The content provided does not include information about the cone sizes for the Orthogenesis Limb Preservation System from DePuy. Therefore, I cannot provide an answer based on the given content.
+Answer: Cone sizes refer to the different dimensions available for tibial cone augments used in the surgical procedure. The document mentions cone sizes as Size 1 through Size 7, with specific compatibility and positioning considerations for each size. These sizes are determined based on the bone defect and the need for symmetric or asymmetric cone augments. The reamer depth increases by 5mm per size, and cones have specific compatibility with different baseplate sizes.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are the augment sizes on the tibia?
-Answer: I don't have the information on tibial augment sizes from the document titled "Orthogenesis Limb Preservation System Surgical Techniques from DePuy." The content provided does not include details from that document.
+Answer: The augment sizes on the tibia range from 1 to 8.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What’s the minimum total distal femur resection?
-Answer: I don't have the specific information from the document titled "Orthogenesis Limb Preservation System Surgical Techniques from DePuy" to answer the question about the minimum total distal femur resection.
+Answer: The minimum total distal femur resection is 70 mm when using the XX-small distal femoral replacement component.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 Is there a non-nickel containing option?
-Answer: The content provided does not specify whether there is a non-nickel containing option in the Orthogenesis Limb Preservation System Surgical Techniques from DePuy. Therefore, I cannot answer the question based on this content.
+Answer: The content provided does not mention whether there is a non-nickel containing option for the Segmental Distal Femoral Replacement from Zimmer Biomet. Therefore, based on the information available, I cannot confirm if such an option exists.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the tibial boss length and diameter?
-Answer: The content provided does not include information about the tibial boss length and diameter from the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy. Therefore, I cannot provide an answer to the question based on the given content.
+Answer: The content provided does not specify the tibial boss length and diameter from the Segmental Distal Femoral Replacement Surgical Technique by Zimmer Biomet. Therefore, I cannot provide this information based on the content given.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the minimum reamer I have to use on the femur and tibia?
-Answer: I'm sorry, but the content provided does not contain information regarding the minimum reamer size to use on the femur and tibia for the Orthogenesis Limb Preservation System from DePuy. You may need to refer directly to the specific document or source for accurate details.
+Answer: For the femur, the canal should be reamed to a size 2mm larger than the chosen stem diameter. The smallest available stem diameter is 8mm, so the minimum reamer size for the femur would be 10mm.
+
+For the tibia, begin with the smallest diameter flexible reamer and sequentially increase in 0.5 mm increments until light cortical chatter is achieved. The specific minimum size is not provided, but the process involves starting with the smallest available reamer.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 Is there a distal femur resection guide for measurement?
-Answer: Yes, there is a distal femur resection guide for measurement mentioned in the content. The document describes using a distal femoral resection template to measure the resection length and identify the resection point on the femur.
+Answer: Yes, there is a distal femur resection guide for measurement. The document mentions the use of a distal femoral resection template to measure the resection length, which helps identify the appropriate resection length by aligning with engravings on the template.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What is the valgus angle of the distal femoral cut?
-Answer: I'm sorry, but the content provided does not contain information regarding the valgus angle of the distal femoral cut for the Orthogenesis Limb Preservation System Surgical Techniques from DePuy.
+Answer: I don't have the specific information about the valgus angle of the distal femoral cut from the document titled Segmental Distal Femoral Replacement Surgical Technique by Zimmer Biomet.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 If the knee does not fully extend, what are the steps we evaluate to change the construct?
-Answer: I'm sorry, but the content provided does not contain relevant information about the Orthogenesis Limb Preservation System Surgical Techniques from DePuy or the steps to evaluate if the knee does not fully extend. Therefore, I cannot answer the question based on the given content.
+Answer: The content provided does not directly address the steps to evaluate or change the construct if the knee does not fully extend. Based on general surgical practices for such situations, the steps might include checking for soft tissue tension, ensuring proper alignment and positioning of the components, and potentially adjusting the length or position of the femoral or tibial components. However, specific steps from the Zimmer Biomet document are not available in the provided content.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 If the knee is too recurvatum in flexion and extension, what are the steps we evaluate to change the construct? What can we do with the bumper in this scenario?
-Answer: I don't have the specific steps from the "Orthogenesis Limb Preservation System Surgical Techniques" document regarding what to do if the knee is too recurvatum in flexion and extension. You might need to refer directly to that document for detailed guidance on evaluating and adjusting the construct, including any specific actions related to the bumper in this scenario.
+Answer: The content provided does not directly address the steps to evaluate and change the construct if the knee is too recurvatum in flexion and extension, nor does it mention specific adjustments to the bumper in this scenario. Therefore, based on general surgical principles, if the knee is too recurvatum, adjustments may include altering the tension of soft tissues, changing component positioning, or adjusting the implant size or alignment. The bumper, if used in a hinge mechanism, may need to be adjusted or replaced to correct the alignment and balance of the knee joint. However, specific steps from the document would be required for a precise answer.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 If the patella is laterally dislocating, what can be done to modify the tibia?
-Answer: I'm sorry, but the content provided does not include information on what can be done to modify the tibia if the patella is laterally dislocating.
+Answer: The content provided does not specifically address what to do if the patella is laterally dislocating in the context of modifying the tibia. Therefore, based on general knowledge, if the patella is laterally dislocating, one approach could be to adjust the rotational alignment of the tibial component during surgery to improve patellar tracking. Additionally, ensuring proper soft tissue balance and alignment of the knee joint components can help address patellar dislocation issues.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are the choices for the tibial component in the setting of a distal femur fracture? How do I decide which is the best option?
-Answer: The content provided does not directly address the Orthogenesis Limb Preservation System Surgical Techniques from DePuy. However, based on general knowledge, when choosing a tibial component for a distal femur fracture, considerations include the stability required, the size and fit of the component, and whether modularity or additional support from a stem is needed. The best option depends on individual patient needs, the extent of bone loss, and the surgeon's preference.
+Answer: The choices for the tibial component in the setting of a distal femur fracture are:
+
+1. Short Non-Modular Tibial Component
+2. Modular without a Stem
+3. Long Non-Modular Tibial Component
+4. Modular with a Stem
+
+To decide which is the best option, consider the coverage of the tibial plateau without overhang, establish the appropriate external rotation, and ensure secure attachment. The choice may also depend on the specific surgical requirements and the fit needed for the patient's anatomy.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 If I can’t get diaphyseal fixation in the femur, what are the options?
-Answer: The content provided does not address the specific question about options when diaphyseal fixation in the femur cannot be achieved. Based on general orthopedic surgical techniques, if diaphyseal fixation in the femur is not possible, alternative options might include using different types of fixation devices such as plates and screws, intramedullary rods, or considering the use of bone cement for additional support. Consulting with a specialist for tailored solutions would be advisable.
+Answer: If you can't achieve diaphyseal fixation in the femur, the content provided does not directly address alternative options for this specific issue. Therefore, I would recommend consulting the specific surgical technique guide or seeking advice from a medical professional experienced in orthopedic surgery for appropriate alternatives or adjustments.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 When should a distal femoral replacement be used or considered?
-Answer: The content provided is not relevant to the input prompt as it pertains to a different document (Segmental Distal Femoral Replacement from Zimmer Biomet) rather than the Orthogenesis Limb Preservation System Surgical Techniques from DePuy. 
-
-However, based on general knowledge, a distal femoral replacement is typically considered for patients with severe damage to the distal femur due to conditions like neoplasms, infections, massive trauma, or failed joint replacements.
+Answer: A distal femoral replacement should be considered in cases of severe damage or disease in the distal femur, such as those caused by tumors, trauma, or degenerative conditions. The goal of this procedure is to restore function and relieve pain in the affected limb.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What can I do with the distal femoral component if I can’t close the retinaculum?
-Answer: The content provided does not mention specific steps for what to do with the distal femoral component if you can't close the retinaculum. Based on general surgical practices, if closure of the retinaculum is not possible, it may require alternative soft tissue reconstruction techniques or the use of additional soft tissue grafts to ensure adequate coverage and stability of the prosthesis. However, for specific guidance, consulting the surgical technique document from DePuy or a specialist would be necessary.
+Answer: I don't have specific information from the document titled "Segmental Distal Femoral Replacement Surgical Technique" by Zimmer Biomet on what to do if you can't close the retinaculum. You might need to consult the document directly or seek guidance from a surgical professional.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 If I have patellar impingement on the mechanism, what are my choices to modify the construct?
-Answer: The content provided does not contain information on addressing patellar impingement specifically related to the Orthogenesis Limb Preservation System. Based on general knowledge, if you are experiencing patellar impingement, potential modifications to the construct might include adjusting the position or size of the patellar component, altering the alignment of the surrounding structures, or using different implant components to alleviate the impingement. It is important to consult with a surgical specialist to determine the best course of action for your specific situation.
+Answer: The content provided does not specifically address the issue of patellar impingement or modifications to the construct in such cases. Based on general knowledge, if patellar impingement occurs, options to modify the construct could include adjusting the position or size of the patellar component, altering the femoral component to better accommodate the patella, or using different implant components that provide better alignment and clearance. Consulting with a surgeon or the specific surgical technique guide for detailed options would be advisable.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 What are the bumper and poly options in my construct?
-Answer: I'm sorry, but I don't have the necessary information from the document titled "Orthogenesis Limb Preservation System Surgical Techniques from DePuy" to answer your question about the bumper and poly options in your construct.
+Answer: The bumper options in your construct are neutral and 3° flexion.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
-
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
 
 Is this a central femoral hinge or posterior consular hinge? Which has better quad efficiency and lower dislocation rate?
-Answer: The content provided does not include information from the document titled "Orthogenesis Limb Preservation System Surgical Techniques from DePuy," nor does it address the specific question regarding the type of hinge or comparisons of quad efficiency and dislocation rates. Therefore, I cannot answer the question based on the provided content. However, generally speaking, the type of hinge in knee replacement systems can affect quadriceps efficiency and dislocation rates, but specific data or findings would be needed to determine which type performs better in these aspects.
+Answer: The content provided does not specify whether the Segmental Distal Femoral Replacement uses a central femoral hinge or a posterior condylar hinge, nor does it compare their quad efficiency and dislocation rates. Therefore, I cannot answer the question based on the provided document.
 
 
 -----------------
 Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
 
-Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
-
 Is there an all poly tibial baseplate option if I wanted to use it as a spacer?
-Answer: The content provided does not mention an all-poly tibial baseplate option for use as a spacer in the context of the Orthogenesis Limb Preservation System Surgical Techniques from DePuy. Therefore, I cannot answer the question based on the given content.
+Answer: The content provided does not mention an all-poly tibial baseplate option for use as a spacer. Therefore, based on the document, it is unclear if such an option exists.
 
 

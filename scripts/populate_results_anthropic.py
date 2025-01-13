@@ -61,6 +61,7 @@ def main():
                                     "media_type": "application/pdf",
                                     "data": pdf_data,
                                 },
+                                "cache_control": {"type": "ephemeral"},
                             },
                             {"type": "text", "text": prompt},
                         ],
