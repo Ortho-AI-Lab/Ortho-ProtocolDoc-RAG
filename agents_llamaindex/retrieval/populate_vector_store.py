@@ -23,10 +23,11 @@ from llama_index.core.schema import ImageNode
 from ..utils.constants import DATA_DIR
 from ..utils.find_key import find_key
 
-embed_model = OpenAIEmbedding(model="text-embedding-3-large")
-llm = OpenAI("gpt-4o")
+embed_model = OpenAIEmbedding(model="text-embedding-3-large", dimensions=1536)
+# Settings.embed_model = embed_model
+
+llm = OpenAI("gpt-4o-2024-08-06")
 Settings.llm = llm
-Settings.embed_model = embed_model
 
 
 stem_to_company = {

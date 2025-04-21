@@ -92,7 +92,7 @@ def get_img_uri(img):
 def analyze_image(data_uri, system_prompt=""):
     time.sleep(10.0)
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-4o-2024-08-06",
         messages=[
             {"role": "system", "content": system_prompt},
             {

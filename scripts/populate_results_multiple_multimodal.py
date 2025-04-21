@@ -56,7 +56,7 @@ def build_agent_with_llamaparse_retriever():
 
     agent = FunctionCallingAgent.from_tools(
         tools=query_engine_tools,
-        llm=build_chat_openai(),
+        llm=build_chat_openai(model="gpt-4o-2024-08-06"),
         system_prompt=agent_system_prompt,
         verbose=True,
     )

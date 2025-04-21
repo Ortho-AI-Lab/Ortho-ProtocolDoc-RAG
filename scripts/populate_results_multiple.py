@@ -126,7 +126,6 @@ def build_agent_with_llamaparse_retriever():
     """Builds an agent that can retrieve the top three most similar nodes from the
     document and analyze them. Has no memory."""
     retriever_tools = [tool for tool in build_retriever_tools("llamaparse").values()]
-    # query_tools = [tool for tool in build_query_engine_tools("llamaparse").values()]
     query_tools = []
 
     agent = FunctionCallingAgent.from_tools(
@@ -142,7 +141,6 @@ def build_agent_with_naive_retriever():
     """Builds an agent that can retrieve the top three most similar nodes from the
     document and analyze them. Has no memory."""
     retriever_tools = [tool for tool in build_retriever_tools("naive").values()]
-    # query_tools = [tool for tool in build_query_engine_tools("naive").values()]
     query_tools = []
     agent = FunctionCallingAgent.from_tools(
         tools=retriever_tools + query_tools,
@@ -181,7 +179,7 @@ def answer_questions(agent: FunctionCallingAgent, questions: list[str]) -> list[
 if __name__ == "__main__":
     base_questions = read_questions(analysis_path / "questions.txt")
 
-    llamaparse_agent = build_agent_with_llamaparse_retriever()
+    # llamaparse_agent = build_agent_with_llamaparse_retriever()
     naive_agent = build_agent_with_naive_retriever()
 
     document_stems = sorted(list(llamaparse_vector_store_dict.keys()))
@@ -199,26 +197,9 @@ if __name__ == "__main__":
 
         questions = [question_prefix + question for question in base_questions]
 
-        # assert False
-
-        llamaparse_answers = answer_questions(llamaparse_agent, questions)
-
-        with open(results_dir / "llamaparse_answers.txt", "w") as f:
-            for i, (question, answer) in enumerate(zip(questions, llamaparse_answers)):
-                f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
-
-                f.write("QUESTION:\n")
-                f.write(question + "\n\n")
-
-                f.write("ANSWER:\n")
-                f.write(answer + "\n\n\n\n")
-
-                f.write("---------------------------------------------------\n\n\n\n")
-
-        # naive_answers = answer_questions(naive_agent, questions)
-
-        # with open(results_dir / "naive_answers.txt", "w") as f:
-        #     for i, (question, answer) in enumerate(zip(questions, naive_answers)):
+        # llamaparse_answers = answer_questions(llamaparse_agent, questions)
+        # with open(results_dir / "llamaparse_answers.txt", "w") as f:
+        #     for i, (question, answer) in enumerate(zip(questions, llamaparse_answers)):
         #         f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
 
         #         f.write("QUESTION:\n")
@@ -228,3 +209,16 @@ if __name__ == "__main__":
         #         f.write(answer + "\n\n\n\n")
 
         #         f.write("---------------------------------------------------\n\n\n\n")
+
+        naive_answers = answer_questions(naive_agent, questions)
+        with open(results_dir / "naive_answers.txt", "w") as f:
+            for i, (question, answer) in enumerate(zip(questions, naive_answers)):
+                f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
+
+                f.write("QUESTION:\n")
+                f.write(question + "\n\n")
+
+                f.write("ANSWER:\n")
+                f.write(answer + "\n\n\n\n")
+
+                f.write("---------------------------------------------------\n\n\n\n")
