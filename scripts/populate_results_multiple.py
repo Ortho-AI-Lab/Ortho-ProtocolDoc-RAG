@@ -44,14 +44,18 @@ def build_query_engine_tools(
         if type == "llamaparse":
             vector_index = llamaparse_vector_store_dict[key]
             query_engine_tool = QueryEngineTool.from_defaults(
-                query_engine=vector_index.as_query_engine(llm=build_chat_openai()),
+                query_engine=vector_index.as_query_engine(
+                    llm=build_chat_openai(model="gpt-4o-2024-08-06")
+                ),
                 name=f"query_engine_tool_llamaparse_{key}",
                 description=f"A query engine for the document titled {title} from {company}.",
             )
         elif type == "naive":
             vector_index = naive_vector_store_dict[key]
             query_engine_tool = QueryEngineTool.from_defaults(
-                query_engine=vector_index.as_query_engine(llm=build_chat_openai()),
+                query_engine=vector_index.as_query_engine(
+                    llm=build_chat_openai(model="gpt-4o-2024-08-06")
+                ),
                 name=f"query_engine_tool_naive_{key}",
                 description=f"A query engine for the document titled {title} from {company}.",
             )
@@ -130,7 +134,7 @@ def build_agent_with_llamaparse_retriever():
 
     agent = FunctionCallingAgent.from_tools(
         tools=retriever_tools + query_tools,
-        llm=build_chat_openai(),
+        llm=build_chat_openai(model="gpt-4o-2024-08-06"),
         system_prompt=agent_system_prompt,
         verbose=True,
     )
@@ -144,7 +148,7 @@ def build_agent_with_naive_retriever():
     query_tools = []
     agent = FunctionCallingAgent.from_tools(
         tools=retriever_tools + query_tools,
-        llm=build_chat_openai(),
+        llm=build_chat_openai(model="gpt-4o-2024-08-06"),
         system_prompt=agent_system_prompt,
         verbose=True,
     )
@@ -179,8 +183,8 @@ def answer_questions(agent: FunctionCallingAgent, questions: list[str]) -> list[
 if __name__ == "__main__":
     base_questions = read_questions(analysis_path / "questions.txt")
 
-    # llamaparse_agent = build_agent_with_llamaparse_retriever()
-    naive_agent = build_agent_with_naive_retriever()
+    llamaparse_agent = build_agent_with_llamaparse_retriever()
+    # naive_agent = build_agent_with_naive_retriever()
 
     document_stems = sorted(list(llamaparse_vector_store_dict.keys()))
 
@@ -197,22 +201,9 @@ if __name__ == "__main__":
 
         questions = [question_prefix + question for question in base_questions]
 
-        # llamaparse_answers = answer_questions(llamaparse_agent, questions)
-        # with open(results_dir / "llamaparse_answers.txt", "w") as f:
-        #     for i, (question, answer) in enumerate(zip(questions, llamaparse_answers)):
-        #         f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
-
-        #         f.write("QUESTION:\n")
-        #         f.write(question + "\n\n")
-
-        #         f.write("ANSWER:\n")
-        #         f.write(answer + "\n\n\n\n")
-
-        #         f.write("---------------------------------------------------\n\n\n\n")
-
-        naive_answers = answer_questions(naive_agent, questions)
-        with open(results_dir / "naive_answers.txt", "w") as f:
-            for i, (question, answer) in enumerate(zip(questions, naive_answers)):
+        llamaparse_answers = answer_questions(llamaparse_agent, questions)
+        with open(results_dir / "llamaparse_answers.txt", "w") as f:
+            for i, (question, answer) in enumerate(zip(questions, llamaparse_answers)):
                 f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
 
                 f.write("QUESTION:\n")
@@ -222,3 +213,16 @@ if __name__ == "__main__":
                 f.write(answer + "\n\n\n\n")
 
                 f.write("---------------------------------------------------\n\n\n\n")
+
+        # naive_answers = answer_questions(naive_agent, questions)
+        # with open(results_dir / "naive_answers.txt", "w") as f:
+        #     for i, (question, answer) in enumerate(zip(questions, naive_answers)):
+        #         f.write("QUESTION-ANSWER PAIR " + str(i + 1) + "\n\n")
+
+        #         f.write("QUESTION:\n")
+        #         f.write(question + "\n\n")
+
+        #         f.write("ANSWER:\n")
+        #         f.write(answer + "\n\n\n\n")
+
+        #         f.write("---------------------------------------------------\n\n\n\n")

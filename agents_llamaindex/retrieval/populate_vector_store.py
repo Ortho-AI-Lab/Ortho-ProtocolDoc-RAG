@@ -374,7 +374,7 @@ def get_retriever_llamaparse_multiple_docs_multimodal(
         Answer: """
         QA_PROMPT = PromptTemplate(QA_PROMPT_TMPL)
         gpt_4o_mm = OpenAIMultiModal(
-            model="gpt-4o", max_new_tokens=4096, api_key=find_key("openai")
+            model="gpt-4o-2024-08-06", max_new_tokens=4096, api_key=find_key("openai")
         )
 
         class MultimodalQueryEngine(CustomQueryEngine):
