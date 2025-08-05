@@ -9,7 +9,7 @@ curr_dir = Path(__file__).parent
 sns.set_theme(context="paper", style="whitegrid")
 
 
-models = ["Naive", "Multimodal", "LlamaParse", "LlamaParse Multimodal", "ChatGPT"]
+models = ["Naive", "Multimodal", "LlamaParse", "LlamaParse Multimodal", "ChatGPT (Document Upload)", "ChatGPT"]
 model_to_normalized_name = {model: f"Normalized {model}" for model in models}
 normalized_name_to_model = {f"Normalized {model}": model for model in models}
 models_normalized = [model_to_normalized_name[model] for model in models]
@@ -33,7 +33,8 @@ def fig1():
 
     fig, ax = plt.subplots(figsize=(7.8, 3))
     barplot = sns.barplot(
-        data=melted, x="Document", y="Accuracy", hue="LLM System", ax=ax
+        data=melted, x="Document", y="Accuracy", hue="LLM System", ax=ax,
+        legend=False
     )
     ax.set_xlabel("")
     ax.grid(False)
@@ -44,14 +45,13 @@ def fig1():
         )
 
     ax.set_ylim(ax.get_ylim()[0], ax.get_ylim()[1] + 0.05)
-
-    ax.legend(
-        title="LLM System",
-        bbox_to_anchor=(1.01, 0.5),
-        loc="center left",
-        fontsize=7,
-        title_fontsize=8,
-    )
+    # ax.legend(
+    #     title="LLM System",
+    #     bbox_to_anchor=(1.01, 0.5),
+    #     loc="center left",
+    #     fontsize=7,
+    #     title_fontsize=8,
+    # )
 
     fig.tight_layout()
     fig.savefig(curr_dir / "figures" / "fig1.png", dpi=300)
@@ -78,7 +78,7 @@ def fig2():
         id_vars="Question Type", var_name="LLM System", value_name="Accuracy"
     )
 
-    fig, ax = plt.subplots(figsize=(6.2, 3))
+    fig, ax = plt.subplots(figsize=(7, 3))
     barplot = sns.barplot(
         data=melted, x="Question Type", y="Accuracy", hue="LLM System", ax=ax
     )
