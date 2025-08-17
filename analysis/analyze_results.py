@@ -75,13 +75,15 @@ stem_to_company = {
 
 
 curr_analysis_dir = curr_dir / "results_chatgptbase"
+model_type = "chatgpt"
+
 assert curr_analysis_dir.exists(), f"Directory {curr_analysis_dir} does not exist."
 
 
 output_dir = curr_dir / "meta_results" / curr_analysis_dir.stem
 output_dir.mkdir(exist_ok=True)
 
-model_type = "chatgpt"
+
 
 
 def parse_question_answer_file(filepath):
