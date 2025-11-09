@@ -338,7 +338,7 @@ Stay concise with your answer, replying specifically to the input prompt without
 
         question_prefix = f"Based on the document titled {document_title} from {company_name}, answer this question:\n\n"
 
-        questions = read_questions(analysis_path / "questions.txt")
+        questions = read_questions(analysis_path / "questions-trick.txt")
         questions = [question_prefix + question for question in questions]
 
         answers = []
@@ -367,7 +367,7 @@ Stay concise with your answer, replying specifically to the input prompt without
 
             answers.append(reply)
 
-        with open(results_dir / "openai_answers.txt", "w") as f:
+        with open(results_dir / "openai_answers-trick.txt", "w") as f:
             for i, question in enumerate(questions):
                 f.write("-----------------\n")
                 f.write(f"Question: {question}\n")

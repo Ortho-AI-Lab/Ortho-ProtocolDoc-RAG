@@ -84,8 +84,6 @@ output_dir = curr_dir / "meta_results" / curr_analysis_dir.stem
 output_dir.mkdir(exist_ok=True)
 
 
-
-
 def parse_question_answer_file(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
         text = f.read()

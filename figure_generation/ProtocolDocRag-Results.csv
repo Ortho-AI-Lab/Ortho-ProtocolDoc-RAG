@@ -1,85 +1,85 @@
-Index,Manufacturer,Protocol Title,Question,Naive,LlamaParse,LlamaParse Multimodal,Multimodal,ChatGPT (Document Upload),ChatGPT,Normalized Naive,Normalized LlamaParse,Normalized LlamaParse Multimodal,Normalized Multimodal,Normalized ChatGPT (Document Upload),Normalized ChatGPT
+Index,Manufacturer,Protocol Title,Question,Naive,LlamaParse,LlamaParse Multimodal,Multimodal,ChatGPT (Document Upload),ChatGPT,Normalized Custom Naive,Normalized LlamaParse,Normalized LlamaParse Multimodal,Normalized Custom Multimodal,Normalized ChatGPT File Upload,Normalized ChatGPT
 0,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,1,1,1,1,1,1,1,0,0,0,0,0,0
-1,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,2,3,1,1,1,1,3,1,0,0,0,0,1
-2,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,3,2,1,1,1,1,1,0.5,0,0,0,0,0
+1,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,2,3,1,1,3,1,1,1,0,0,1,0,0
+2,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,3,2,1,1,3,3,1,0.5,0,0,1,1,0
 3,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,4,1,1,1,1,1,1,0,0,0,0,0,0
-4,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,5,1,1,3,1,3,2,0,0,1,0,1,0.5
+4,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,5,1,1,3,3,2,3,0,0,1,1,0.5,1
 5,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,6,1,3,3,1,3,1,0,1,1,0,1,0
 6,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,7,3,3,3,3,3,1,1,1,1,1,1,0
-7,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,8,1,1,1,1,1,1,0,0,0,0,0,0
+7,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,8,1,1,1,2,1,1,0,0,0,0.5,0,0
 8,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,9,3,3,1,3,3,1,1,1,0,1,1,0
-9,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,10,1,2,1,2,2,1,0,0.5,0,0.5,0.5,0
-10,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,11,3,1,3,1,3,1,1,0,1,0,1,0
+9,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,10,1,2,1,2,1,1,0,0.5,0,0.5,0,0
+10,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,11,3,1,3,3,2,3,1,0,1,1,0.5,1
 11,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,12,1,1,1,1,1,1,0,0,0,0,0,0
-12,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,13,3,3,3,2,3,1,1,1,1,0.5,1,0
+12,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,13,3,3,3,3,1,1,1,1,1,1,0,0
 13,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,14,1,1,1,1,1,1,0,0,0,0,0,0
-14,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,15,1,1,2,3,2,3,0,0,0.5,1,0.5,1
+14,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,15,1,1,2,2,1,1,0,0,0.5,0.5,0,0
 15,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,16,3,3,3,3,3,3,1,1,1,1,1,1
 16,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,17,1,1,1,1,3,3,0,0,0,0,1,1
-17,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,18,1,1,1,2,2,1,0,0,0,0.5,0.5,0
-18,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,19,1,1,1,1,1,1,0,0,0,0,0,0
-19,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,20,1,1,2,1,3,1,0,0,0.5,0,1,0
+17,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,18,1,1,1,3,2,1,0,0,0,1,0.5,0
+18,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,19,1,1,1,2,1,1,0,0,0,0.5,0,0
+19,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,20,1,1,2,1,1,1,0,0,0.5,0,0,0
 20,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,21,1,1,1,1,1,1,0,0,0,0,0,0
-21,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,22,2,2,1,2,1,2,0.5,0.5,0,0.5,0,0.5
-22,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,23,1,2,2,2,2,3,0,0.5,0.5,0.5,0.5,1
-23,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,24,1,1,1,1,1,2,0,0,0,0,0,0.5
-24,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,25,1,1,2,2,2,1,0,0,0.5,0.5,0.5,0
-25,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,26,1,2,2,2,3,1,0,0.5,0.5,0.5,1,0
-26,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,27,1,1,1,1,2,1,0,0,0,0,0.5,0
-27,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,28,1,1,1,1,1,3,0,0,0,0,0,1
+21,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,22,2,2,1,2,2,1,0.5,0.5,0,0.5,0.5,0
+22,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,23,1,2,2,3,3,2,0,0.5,0.5,1,1,0.5
+23,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,24,1,1,1,2,2,2,0,0,0,0.5,0.5,0.5
+24,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,25,1,1,2,2,1,1,0,0,0.5,0.5,0,0
+25,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,26,1,2,2,2,1,1,0,0.5,0.5,0.5,0,0
+26,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,27,1,1,1,1,3,3,0,0,0,0,1,1
+27,Stryker,GMRS Distal Femur and Revision Baseplate Surgical Protocol,28,1,1,1,1,3,3,0,0,0,0,1,1
 28,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,1,3,2,2,1,2,1,1,0.5,0.5,0,0.5,0
 29,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,2,3,3,3,1,3,1,1,1,1,0,1,0
-30,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,3,2,1,1,2,1,1,0.5,0,0,0.5,0,0
-31,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,4,1,1,1,1,3,1,0,0,0,0,1,0
-32,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,5,1,1,1,1,1,2,0,0,0,0,0,0.5
+30,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,3,2,1,1,3,1,2,0.5,0,0,1,0,0.5
+31,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,4,1,1,1,1,1,1,0,0,0,0,0,0
+32,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,5,1,1,1,3,1,3,0,0,0,1,0,1
 33,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,6,1,1,1,1,1,1,0,0,0,0,0,0
 34,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,7,2,2,2,1,2,1,0.5,0.5,0.5,0,0.5,0
-35,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,8,2,3,1,3,1,1,0.5,1,0,1,0,0
-36,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,9,2,3,2,2,3,1,0.5,1,0.5,0.5,1,0
+35,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,8,2,3,1,1,1,1,0.5,1,0,0,0,0
+36,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,9,2,3,2,2,1,1,0.5,1,0.5,0.5,0,0
 37,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,10,1,1,1,1,1,1,0,0,0,0,0,0
-38,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,11,1,1,1,1,1,1,0,0,0,0,0,0
-39,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,12,2,2,2,2,3,1,0.5,0.5,0.5,0.5,1,0
-40,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,13,3,3,3,2,3,1,1,1,1,0.5,1,0
+38,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,11,1,1,1,2,1,2,0,0,0,0.5,0,0.5
+39,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,12,2,2,2,3,1,1,0.5,0.5,0.5,1,0,0
+40,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,13,3,3,3,3,3,3,1,1,1,1,1,1
 41,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,14,1,1,1,1,1,1,0,0,0,0,0,0
-42,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,15,1,1,1,2,3,1,0,0,0,0.5,1,0
-43,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,16,3,3,3,3,1,3,1,1,1,1,0,1
+42,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,15,1,1,1,2,1,1,0,0,0,0.5,0,0
+43,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,16,3,3,3,3,3,3,1,1,1,1,1,1
 44,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,17,1,1,1,1,1,1,0,0,0,0,0,0
-45,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,18,2,2,2,2,2,1,0.5,0.5,0.5,0.5,0.5,0
-46,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,19,2,2,2,2,1,2,0.5,0.5,0.5,0.5,0,0.5
-47,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,20,2,1,1,1,1,1,0.5,0,0,0,0,0
-48,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,21,1,1,1,1,1,1,0,0,0,0,0,0
-49,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,22,1,2,1,1,3,1,0,0.5,0,0,1,0
-50,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,23,2,3,3,3,2,2,0.5,1,1,1,0.5,0.5
-51,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,24,2,1,1,1,2,3,0.5,0,0,0,0.5,1
-52,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,25,1,2,1,2,1,1,0,0.5,0,0.5,0,0
+45,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,18,2,2,2,2,1,1,0.5,0.5,0.5,0.5,0,0
+46,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,19,2,2,2,3,1,2,0.5,0.5,0.5,1,0,0.5
+47,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,20,2,1,1,3,1,2,0.5,0,0,1,0,0.5
+48,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,21,1,1,1,1,1,2,0,0,0,0,0,0.5
+49,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,22,1,2,1,1,1,1,0,0.5,0,0,0,0
+50,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,23,2,3,3,2,2,3,0.5,1,1,0.5,0.5,1
+51,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,24,2,1,1,1,1,3,0.5,0,0,0,0,1
+52,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,25,1,2,1,3,1,1,0,0.5,0,1,0,0
 53,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,26,1,1,1,1,1,1,0,0,0,0,0,0
 54,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,27,1,1,1,1,1,1,0,0,0,0,0,0
 55,DePuy Synthes,Orthogenesis Limb Preservation System Surgical Techniques,28,3,3,3,3,3,1,1,1,1,1,1,0
 56,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,1,2,2,2,1,2,1,0.5,0.5,0.5,0,0.5,0
-57,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,2,3,1,3,1,3,1,1,0,1,0,1,0
+57,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,2,3,1,3,3,3,1,1,0,1,1,1,0
 58,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,3,1,1,1,1,1,2,0,0,0,0,0,0.5
-59,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,4,1,1,1,1,1,3,0,0,0,0,0,1
-60,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,5,1,1,1,1,1,2,0,0,0,0,0,0.5
-61,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,6,2,3,3,3,2,1,0.5,1,1,1,0.5,0
-62,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,7,3,3,3,1,3,1,1,1,1,0,1,0
-63,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,8,3,1,3,2,3,1,1,0,1,0.5,1,0
+59,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,4,1,1,1,1,1,2,0,0,0,0,0,0.5
+60,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,5,1,1,1,3,1,3,0,0,0,1,0,1
+61,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,6,2,3,3,1,2,1,0.5,1,1,0,0.5,0
+62,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,7,3,3,3,1,1,1,1,1,1,0,0,0
+63,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,8,3,1,3,3,3,1,1,0,1,1,1,0
 64,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,9,1,1,1,1,1,1,0,0,0,0,0,0
 65,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,10,1,1,1,1,2,1,0,0,0,0,0.5,0
-66,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,11,1,1,2,1,1,3,0,0,0.5,0,0,1
+66,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,11,1,1,2,1,1,2,0,0,0.5,0,0,0.5
 67,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,12,1,1,3,3,1,1,0,0,1,1,0,0
-68,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,13,3,2,1,2,3,1,1,0.5,0,0.5,1,0
-69,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,14,1,1,1,1,1,2,0,0,0,0,0,0.5
+68,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,13,3,2,1,3,3,1,1,0.5,0,1,1,0
+69,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,14,1,1,1,1,1,1,0,0,0,0,0,0
 70,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,15,2,1,1,1,1,1,0.5,0,0,0,0,0
 71,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,16,3,3,3,3,3,3,1,1,1,1,1,1
-72,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,17,1,1,1,1,1,3,0,0,0,0,0,1
-73,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,18,2,2,2,2,1,2,0.5,0.5,0.5,0.5,0,0.5
-74,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,19,2,3,2,2,1,2,0.5,1,0.5,0.5,0,0.5
-75,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,20,2,2,1,2,1,1,0.5,0.5,0,0.5,0,0
-76,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,21,1,1,1,1,1,2,0,0,0,0,0,0.5
-77,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,22,2,2,2,1,1,2,0.5,0.5,0.5,0,0,0.5
-78,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,23,1,2,1,2,2,2,0,0.5,0,0.5,0.5,0.5
+72,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,17,1,1,1,3,1,1,0,0,0,1,0,0
+73,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,18,2,2,2,2,2,2,0.5,0.5,0.5,0.5,0.5,0.5
+74,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,19,2,3,2,3,1,2,0.5,1,0.5,1,0,0.5
+75,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,20,2,2,1,3,1,1,0.5,0.5,0,1,0,0
+76,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,21,1,1,1,2,1,2,0,0,0,0.5,0,0.5
+77,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,22,2,2,2,2,2,1,0.5,0.5,0.5,0.5,0.5,0
+78,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,23,1,2,1,2,1,2,0,0.5,0,0.5,0,0.5
 79,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,24,1,1,1,1,1,1,0,0,0,0,0,0
 80,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,25,1,1,1,1,1,2,0,0,0,0,0,0.5
 81,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,26,1,1,1,1,1,1,0,0,0,0,0,0
-82,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,27,1,1,1,1,1,2,0,0,0,0,0,0.5
-83,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,28,3,2,3,2,3,1,1,0.5,1,0.5,1,0
+82,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,27,1,1,1,1,1,1,0,0,0,0,0,0
+83,Zimmer Biomet,Segmental Distal Femoral Replacement Surgical Technique,28,3,2,3,3,3,1,1,0.5,1,1,1,0

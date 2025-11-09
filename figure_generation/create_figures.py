@@ -6,10 +6,19 @@ from pathlib import Path
 
 curr_dir = Path(__file__).parent
 
+custom_palette = ["#6baed6", "#0057b8", "#f19483", "#c0392b", "#b0b0b0", "#636363"]
+
 sns.set_theme(context="paper", style="whitegrid")
 
 
-models = ["Naive", "Multimodal", "LlamaParse", "LlamaParse Multimodal", "ChatGPT (Document Upload)", "ChatGPT"]
+models = [
+    "Custom Naive",
+    "Custom Multimodal",
+    "LlamaParse",
+    "LlamaParse Multimodal",
+    "ChatGPT",
+    "ChatGPT File Upload",
+]
 model_to_normalized_name = {model: f"Normalized {model}" for model in models}
 normalized_name_to_model = {f"Normalized {model}": model for model in models}
 models_normalized = [model_to_normalized_name[model] for model in models]
@@ -33,8 +42,13 @@ def fig1():
 
     fig, ax = plt.subplots(figsize=(7.8, 3))
     barplot = sns.barplot(
-        data=melted, x="Document", y="Accuracy", hue="LLM System", ax=ax,
-        legend=False
+        data=melted,
+        x="Document",
+        y="Accuracy",
+        hue="LLM System",
+        ax=ax,
+        legend=False,
+        palette=custom_palette,
     )
     ax.set_xlabel("")
     ax.grid(False)
@@ -45,13 +59,15 @@ def fig1():
         )
 
     ax.set_ylim(ax.get_ylim()[0], ax.get_ylim()[1] + 0.05)
-    # ax.legend(
-    #     title="LLM System",
-    #     bbox_to_anchor=(1.01, 0.5),
-    #     loc="center left",
-    #     fontsize=7,
-    #     title_fontsize=8,
-    # )
+
+    # # Apply unique hatches to models
+    # for i, container in enumerate(barplot.containers):
+    #     if models[i] == "Naive" or models[i] == "Multimodal":
+    #         for bar in container:
+    #             bar.set_hatch('x')
+    #     elif models[i] in ["ChatGPT (Document Upload)", "ChatGPT"]:
+    #         for bar in container:
+    #             bar.set_hatch('//')
 
     fig.tight_layout()
     fig.savefig(curr_dir / "figures" / "fig1.png", dpi=300)
@@ -67,10 +83,6 @@ def fig2():
     )
     grouped = df.groupby("Question Type")[models_normalized].mean()
 
-    # overall = df[models_normalized].mean().to_frame().T
-    # overall.index = ["Overall"]
-    # grouped = pd.concat([overall, grouped])
-
     grouped = grouped.rename(columns=normalized_name_to_model)
     grouped.index.name = "Question Type"
 
@@ -78,9 +90,14 @@ def fig2():
         id_vars="Question Type", var_name="LLM System", value_name="Accuracy"
     )
 
-    fig, ax = plt.subplots(figsize=(7, 3))
+    fig, ax = plt.subplots(figsize=(7.8, 3))
     barplot = sns.barplot(
-        data=melted, x="Question Type", y="Accuracy", hue="LLM System", ax=ax
+        data=melted,
+        x="Question Type",
+        y="Accuracy",
+        hue="LLM System",
+        ax=ax,
+        palette=custom_palette,
     )
 
     ax.set_xlabel("")
@@ -101,6 +118,15 @@ def fig2():
         fontsize=7,
         title_fontsize=8,
     )
+
+    # # Apply unique hatches to models
+    # for i, container in enumerate(barplot.containers):
+    #     if models[i] == "Naive" or models[i] == "Multimodal":
+    #         for bar in container:
+    #             bar.set_hatch('x')
+    #     elif models[i] in ["ChatGPT (Document Upload)", "ChatGPT"]:
+    #         for bar in container:
+    #             bar.set_hatch('//')
 
     fig.tight_layout()
     fig.savefig(curr_dir / "figures" / "fig2.png", dpi=300)

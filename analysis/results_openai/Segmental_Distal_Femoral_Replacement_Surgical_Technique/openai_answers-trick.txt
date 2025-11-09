@@ -1,0 +1,70 @@
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+How long does this operation take?
+Answer: The content provided does not specify the duration of the operation for a segmental distal femoral replacement.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+If I am unhappy with the distal femoral replacement trials but decide to use a cruciate retaining implant, what’s the next step?
+Answer: If you are unhappy with the distal femoral replacement trials but decide to use a cruciate retaining implant, the next step would be to select the appropriate implant components for the cruciate retaining system and proceed with their assembly and insertion according to the surgical technique guide specific to that implant type. This typically involves ensuring proper alignment and fit, and may require additional adjustments to the trial components to achieve satisfactory results before implanting the final components.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+Is this implant ACL preserving?
+Answer: The content provided does not specify whether the implant is ACL preserving. Therefore, based on my knowledge, segmental distal femoral replacements typically involve significant reconstruction of the knee joint, which may not preserve the ACL. However, specific details about ACL preservation would be found in the surgical technique documentation or guidelines from Zimmer Biomet.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+Is this implant PCL preserving?
+Answer: The content provided does not specify whether the implant is PCL (posterior cruciate ligament) preserving. Therefore, I cannot determine from the content whether the implant is PCL preserving.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+Is the DFR better for patients than a cruciate retaining or posterior stabilized total knee replacement?
+Answer: The content provided does not directly address whether a distal femoral replacement (DFR) is better for patients than a cruciate retaining or posterior stabilized total knee replacement. The choice between these procedures depends on specific patient conditions and surgical goals. DFR is typically used for severe damage or disease in the distal femur, such as tumors or trauma, while total knee replacements are more common for degenerative joint diseases like osteoarthritis. Each has its own indications, benefits, and risks.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+Is this DFR a kinematic knee?
+Answer: The content provided does not specifically mention whether the Distal Femoral Replacement (DFR) is a kinematic knee. A kinematic knee typically refers to a prosthetic design that closely mimics the natural movement of the knee. The document focuses on the surgical technique and components of the segmental distal femoral replacement, but it does not explicitly state if the DFR by Zimmer Biomet is classified as a kinematic knee.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+How do we manage the meniscus during DFR surgery?
+Answer: The content provided does not mention how the meniscus is managed during distal femoral replacement surgery. Typically, in distal femoral replacement procedures, the meniscus may be removed if it is in the way of the surgical area or if it is damaged, but specific management techniques would depend on the surgical approach and individual patient considerations. For precise information, consulting the specific surgical technique document from Zimmer Biomet would be necessary.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+Is the DFR appropriate for hip arthritis?
+Answer: The Segmental Distal Femoral Replacement (DFR) is not appropriate for treating hip arthritis. It is specifically designed for replacing the distal part of the femur near the knee, typically due to severe damage or disease in that area. Hip arthritis would require different surgical interventions, such as a total hip replacement, which is designed to address issues in the hip joint itself.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+Which is the best DFR on the market?
+Answer: The content provided does not directly answer the question of which distal femoral replacement (DFR) is the best on the market. It describes the surgical technique and components of the Zimmer Biomet OSS™ Orthopedic Salvage System for segmental distal femoral replacement but does not compare it to other products or declare it as the best. Therefore, I cannot determine which DFR is the best based on the provided content.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+How long before the patient can return to running after DFR?
+Answer: The content provided does not specify how long it takes for a patient to return to running after a distal femoral replacement (DFR). Typically, returning to high-impact activities like running would depend on the patient's recovery progress, rehabilitation, and the surgeon's advice. It is best to consult with the healthcare provider for personalized guidance on returning to such activities.
+
+
