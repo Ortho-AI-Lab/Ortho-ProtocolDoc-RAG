@@ -1,0 +1,14 @@
+Question: How long is the distal femoral component?
+Answer: According to the surgical protocol, the distal femoral component comes in two sizes:
+
+Small: 
+- M/L width: 52mm
+- A/P length: 45mm
+
+Standard:
+- M/L width: 60mm 
+- A/P length: 54mm
+
+The specific length needed would depend on which size (small or standard) is selected based on the patient's anatomy.
+
+

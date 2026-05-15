@@ -1,0 +1,225 @@
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+How long is the distal femoral component?
+Answer: 13–23 cm, in 2 cm increments (13, 15, 17, 19, 21, 23 cm).
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+Is there a press fit or cementless option?
+Answer: Yes. A cementless/press-fit option is available via a porous-coated implant for bone ingrowth; the technique also includes a cemented fixation option.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+How do you check rotation?
+Answer: - Make a reference line: Using a straight edge (e.g., Distal Femoral Template), mark the anterior cortex above the resection level in line with the trochlear groove (directly anterior to the linea aspera).
+- Trial verification: During trialing, rotate the stem/trial so its alignment mark matches this cortical line and the trochlear groove of the distal femoral component.
+- Fix the reference: Once satisfied, use the trial’s anti-rotation slot/tab to mark the femur so the final implant can be inserted in the same rotational orientation.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What is the shortest construct I can use?
+Answer: 8.5 cm.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What degree do I cut the tibia in?
+Answer: 0 degrees—neutral cut with no posterior slope (perpendicular to the tibial mechanical axis).
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What are the poly sizes?
+Answer: 10, 12.5, 15, 17.5, 20, 22.5, and 25 mm (in 2.5 mm increments).
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What is the minimum stem diameter?
+Answer: 8 mm
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What are the body segment lengths?
+Answer: 3, 4, 5, 7, 9, 11, 13, 15, 17, 19, 21, and 23 cm.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What is the maximum stem diameter?
+Answer: 17 mm
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What are cone sizes?
+Answer: A, B, C, D, and E.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What are the augment sizes on the tibia?
+Answer: Sizes 1 through 8.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What’s the minimum total distal femur resection?
+Answer: 70 mm with the XX‑small component (80 mm with the X‑small).
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+Is there a non-nickel containing option?
+Answer: The document does not specify a non‑nickel containing option.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What is the tibial boss length and diameter?
+Answer: - Diameter: 19 mm
+- Length: Not specified in the provided technique excerpt
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What is the minimum reamer I have to use on the femur and tibia?
+Answer: - Femur: Ream 2 mm larger than the selected stem. With the smallest stem (8 mm), the minimum final reamer is 10 mm.
+- Tibia: Start with the smallest flexible reamer, i.e., 8 mm, and increase in 0.5 mm increments until light cortical chatter.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+Is there a distal femur resection guide for measurement?
+Answer: Yes. The technique uses a Distal Femoral Resection Template to measure resection length (part number 110018799), aligning with engravings to mark the femur for resection.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What is the valgus angle of the distal femoral cut?
+Answer: 5 degrees valgus.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+If the knee does not fully extend, what are the steps we evaluate to change the construct?
+Answer: - Compare the knee joint line to the contralateral side to confirm height.
+- Adjust the hinged tibial insert trial height as needed.
+- Change the segmental trial lengths (shorten/lengthen in mm increments) to modify overall construct length.
+- If the joint line is too distal and you are already at the minimum 25 mm segment length, recut the femoral osteotomy more proximally; re-ream the femur proximally and finish the cut with a calcar planer/bevel reamer.
+- After adjustments, reassess rotation and stability and remark the femoral alignment using the trial’s anti-rotation tab.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+If the knee is too recurvatum in flexion and extension, what are the steps we evaluate to change the construct? What can we do with the bumper in this scenario?
+Answer: - Reassess construct length and joint line: ensure the femoral component sets the joint line to match the opposite side. If you’re already at the minimum segment length and the joint line is too distal, recut the femoral osteotomy, ream more proximally, and finish the cut (calcar planer/bevel reamer), then re-trial.
+
+- Adjust the hinged tibial insert height: with the knee at 90°, distract and move the Hinge Trial Bearing Plate to a different slot (next increment) to change insert thickness/height, then check the extension gap at 0°. Select insert thickness based on desired leg length, then confirm stability.
+
+- Modify the bumper: assemble and adjust the Trial Bumper angle as required; use a more restrictive (greater) bumper angle to limit hyperextension (reduce recurvatum).
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+If the patella is laterally dislocating, what can be done to modify the tibia?
+Answer: Internally rotate the tibial component to medialize the tibial tubercle and improve patellar tracking.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What are the choices for the tibial component in the setting of a distal femur fracture? How do I decide which is the best option?
+Answer: Choices
+- A: Short non‑modular tibial component
+- B: Modular tibial baseplate without a stem
+- C: Long non‑modular tibial component
+- D: Modular tibial baseplate with a stem
+
+How to decide
+- Size/coverage and rotation: Select the option (using the tibial sled) that provides the best tibial plateau coverage without overhang and establishes appropriate external rotation.
+- Need for a stem: Use a modular baseplate with a stem (D) when you want diaphyseal fixation; use a modular baseplate without a stem (B) or a non‑modular option (A/C) when stem fixation isn’t needed.
+- Short vs long: Choose short (A) vs long (C) based on tibial size and required footprint for stable coverage.
+- Note: The modular tibial baseplate has a larger distal diameter to accommodate the stem taper, which affects sizing.
+
+If using a hinged tibial tray system, match the insert to the tray per system guidance (e.g., S‑ROM tray with S‑ROM hinged insert; M.B.T. tray with LPS hinged insert, with sizes matched to the DFR component).
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+If I can’t get diaphyseal fixation in the femur, what are the options?
+Answer: - Use the OSS expandable diaphyseal segment system to reach more proximal bone: pair the 7 cm expandable distal femoral trial with the appropriate expandable segment (10–14, 14–18, 18–22, or 22–26 cm) and, with a non-collared stem, add a diaphyseal augment to secure the stem.
+- If adequate diaphyseal purchase still can’t be achieved, convert to a Total Femur Replacement construct.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+When should a distal femoral replacement be used or considered?
+Answer: Use or consider a distal femoral replacement when the distal femur requires reconstruction due to significant bone loss or severe damage/disease—commonly from tumors, trauma, or degenerative conditions—to restore function and relieve pain.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What can I do with the distal femoral component if I can’t close the retinaculum?
+Answer: Medialize the distal femoral component to relax the soft tissues and allow retinacular closure.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+If I have patellar impingement on the mechanism, what are my choices to modify the construct?
+Answer: - Switch the hinge bumper from neutral to the 3° flexion bumper to change hinge orientation and improve patellar clearance.
+- Resurface/adjust the patella with a dome patellar component (S-ROM or Sigma), selecting size/position to avoid contact with the hinge housing.
+- Ensure the tibial bearing matches the femoral component size (e.g., use LPS extra-small hinged tibial insert with extra-small DFR, XXS with XXS) to maintain the intended hinge profile.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+What are the bumper and poly options in my construct?
+Answer: - Bumper options: Neutral (6481-2-130) or 3° flexion (6481-2-133).
+- Poly option: Triathlon Hinge Tibial Bearing Component, Size 1–2 (5612-0-001); tibial insert must match the baseplate size and the hinge insert is used with the cemented Revision Baseplate.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+Is this a central femoral hinge or posterior consular hinge? Which has better quad efficiency and lower dislocation rate?
+Answer: - It’s a central femoral hinge.
+- Posterior condylar hinges generally provide better quadriceps efficiency and a lower dislocation (patellofemoral instability) rate than central hinges.
+
+
+-----------------
+Question: Based on the document titled Segmental Distal Femoral Replacement Surgical Technique from Zimmer Biomet, answer this question:
+
+Is there an all poly tibial baseplate option if I wanted to use it as a spacer?
+Answer: No. The document lists four tibial options—short non‑modular, modular without a stem, long non‑modular, and modular with a stem—and does not include an all‑polyethylene tibial baseplate or spacer option.
+
+

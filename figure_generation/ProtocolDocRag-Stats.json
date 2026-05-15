@@ -1,0 +1,62 @@
+{
+  "figure1": {
+    "Overall": {
+      "Custom Naive": 0.315,
+      "Custom Multimodal": 0.446,
+      "LlamaParse": 0.298,
+      "LlamaParse Multimodal": 0.31,
+      "ChatGPT": 0.244,
+      "ChatGPT File Upload": 0.292
+    },
+    "DePuy Synthes": {
+      "Custom Naive": 0.357,
+      "Custom Multimodal": 0.411,
+      "LlamaParse": 0.375,
+      "LlamaParse Multimodal": 0.286,
+      "ChatGPT": 0.268,
+      "ChatGPT File Upload": 0.196
+    },
+    "Stryker": {
+      "Custom Naive": 0.25,
+      "Custom Multimodal": 0.5,
+      "LlamaParse": 0.25,
+      "LlamaParse Multimodal": 0.304,
+      "ChatGPT": 0.25,
+      "ChatGPT File Upload": 0.411
+    },
+    "Zimmer Biomet": {
+      "Custom Naive": 0.339,
+      "Custom Multimodal": 0.429,
+      "LlamaParse": 0.268,
+      "LlamaParse Multimodal": 0.339,
+      "ChatGPT": 0.214,
+      "ChatGPT File Upload": 0.268
+    }
+  },
+  "figure2": {
+    "Enumerative": {
+      "Custom Naive": 0.2,
+      "Custom Multimodal": 0.267,
+      "LlamaParse": 0.267,
+      "LlamaParse Multimodal": 0.333,
+      "ChatGPT": 0.133,
+      "ChatGPT File Upload": 0.233
+    },
+    "Literal": {
+      "Custom Naive": 0.515,
+      "Custom Multimodal": 0.53,
+      "LlamaParse": 0.424,
+      "LlamaParse Multimodal": 0.47,
+      "ChatGPT": 0.258,
+      "ChatGPT File Upload": 0.424
+    },
+    "Reasoned": {
+      "Custom Naive": 0.181,
+      "Custom Multimodal": 0.444,
+      "LlamaParse": 0.194,
+      "LlamaParse Multimodal": 0.153,
+      "ChatGPT": 0.278,
+      "ChatGPT File Upload": 0.194
+    }
+  }
+}

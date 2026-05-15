@@ -1,0 +1,233 @@
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+How long is the distal femoral component?
+Answer: It depends on size:
+- Small: 45 mm A/P (52 mm M/L)
+- Standard: 54 mm A/P (60 mm M/L)
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+Is there a press fit or cementless option?
+Answer: Yes. The protocol includes a Revision Baseplate with Fluted Stem option, where cement is applied to the tibial surface only (no retrograde canal fill), indicating a press-fit/cementless stem. There is also a fully cemented stem option.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+How do you check rotation?
+Answer: Use a straight edge (e.g., the Distal Femoral Template) to mark the anterior cortex above the resection level in line with the trochlear groove (directly anterior to the linea aspera). During trialing/implantation, align the stem’s rotational marking with this cortical mark to confirm rotation.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What is the shortest construct I can use?
+Answer: The shortest construct is the Distal Femoral Component attached directly to a cemented stem with no extension piece—use the stem without the extra‑cortical porous‑coated body section (11 mm replacement length).
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What degree do I cut the tibia in?
+Answer: 0° posterior slope (neutral), i.e., perpendicular to the tibial mechanical axis.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What are the poly sizes?
+Answer: The provided protocol content does not specify the polyethylene (poly) sizes. I can’t determine them from this excerpt.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What is the minimum stem diameter?
+Answer: 8 mm
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What are the body segment lengths?
+Answer: 40 mm for the extra-cortical porous-coated body section and 11 mm for the non-coated version.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What is the maximum stem diameter?
+Answer: 17 mm
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What are cone sizes?
+Answer: A, B, C, D, and E.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What are the augment sizes on the tibia?
+Answer: Sizes 1 through 8 (with 5 mm and 10 mm thickness options).
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What’s the minimum total distal femur resection?
+Answer: The protocol does not specify a minimum total distal femur resection.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+Is there a non-nickel containing option?
+Answer: The protocol does not specify a non‑nickel containing option.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What is the tibial boss length and diameter?
+Answer: - Tibial boss diameter: 19 mm
+- Tibial boss length: Not specified in the protocol (set by the boss reamer’s physical stop)
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What is the minimum reamer I have to use on the femur and tibia?
+Answer: - Femur: Ream 2 mm larger than the selected stem. For the smallest 8 mm stem, the minimum flexible reamer is 10 mm.
+- Tibia: Ream to achieve the desired stem diameter and cement mantle. If using a stem extender, it is 16 mm in diameter, so ream accordingly.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+Is there a distal femur resection guide for measurement?
+Answer: Yes. The protocol specifies a Distal Femoral Template used to measure and mark the distal femur resection level, guiding the resection to reproducible implant levels.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What is the valgus angle of the distal femoral cut?
+Answer: 0° valgus (the cut is perpendicular to the femoral shaft).
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+If the knee does not fully extend, what are the steps we evaluate to change the construct?
+Answer: - Bring the knee to full extension and palpate femoral pulses. If pulses are diminished in extension and improve with flexion, the construct is too long/tight and needs to be shortened.
+- Recheck the tibial–femoral leg-length reference marks.
+- Compare the distal femoral resection length to the assembled prosthesis length.
+- If too long/tight, modify the construct by:
+  - Removing additional distal femoral bone, or
+  - Shortening/adjusting the prosthesis length, or
+  - Using a thinner insert (shift the Hinge Trial Bearing Plate to a thinner slot); adjust the Trial Bumper angle as needed.
+- If shortening the femur/construct would compromise patellar tracking, remove additional bone from the tibial side instead.
+- Reassess to ensure full extension, proper patellar tracking, and acceptable distal pulses before accepting final length.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+If the knee is too recurvatum in flexion and extension, what are the steps we evaluate to change the construct? What can we do with the bumper in this scenario?
+Answer: - Evaluate and adjust insert thickness: with the knee at 90°, shift the Hinge Trial Bearing Plate to the next slot (thicker insert) and then check the extension gap at 0°. Repeat trial reduction as needed.
+- Adjust the bumper: change the Trial Bumper angle as required; in this setting, select the 3° flexion bumper (instead of neutral) to bias the knee into flexion and reduce recurvatum.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+If the patella is laterally dislocating, what can be done to modify the tibia?
+Answer: Medialize the tibial tubercle (tibial tubercle osteotomy/transfer) to improve patellar tracking and prevent lateral dislocation.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What are the choices for the tibial component in the setting of a distal femur fracture? How do I decide which is the best option?
+Answer: Choices
+- GMRS Revision Tibial Baseplate (offsetting not possible), paired with:
+  - Tibial Sleeve
+  - Tibial Augments (5 mm or 10 mm, attached under the baseplate)
+  - Compatible Tibial Bearing Component and Tibial Insert
+
+How to decide
+- Size and position with the Universal Tibial Template; attach the Tibial Alignment Handle for sizing.
+- If you made augment cuts, attach Tibial Augment Trials to the underside of the template to confirm need for 5 mm or 10 mm augments.
+- Verify rotation and alignment using the Revision Keel Punch Guide and Universal Alignment Rod.
+- Because offsetting is not available with the Revision baseplate, choose the baseplate size and position that achieve coverage and alignment without offset.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+If I can’t get diaphyseal fixation in the femur, what are the options?
+Answer: - Cement the femoral stem (use a cement restrictor and rely on metaphyseal/cement fixation rather than press-fit diaphyseal purchase).
+- Use an allograft-prosthetic composite to restore length and allow stem fixation.
+- If adequate fixation still isn’t achievable, convert to a total femur replacement.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+When should a distal femoral replacement be used or considered?
+Answer: Consider a distal femoral replacement when there is extensive distal femoral bone loss or pathology that cannot be reliably reconstructed with standard arthroplasty techniques (stems, augments, cones), including:
+- Oncologic indications: limb-sparing reconstruction after resection of primary bone tumors or metastatic disease/pathologic fracture of the distal femur.
+- Failed total knee arthroplasty with massive distal femoral bone loss and/or collateral ligament insufficiency requiring a linked/hinged construct.
+- Periprosthetic or native distal femur fractures that are unreconstructable (severely comminuted, osteoporotic, poor bone stock), especially in low-demand or elderly patients.
+- Salvage after multiple revisions or infection with segmental bone loss where stable fixation of conventional components is not feasible.
+- Acute traumatic distal femur destruction that is not reconstructable, as a limb-salvage alternative to above-knee amputation.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What can I do with the distal femoral component if I can’t close the retinaculum?
+Answer: Slightly externally rotate the distal femoral component to improve patellar tracking, which can facilitate retinacular (capsular) closure.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+If I have patellar impingement on the mechanism, what are my choices to modify the construct?
+Answer: Options to modify the construct for patellar impingement on the mechanism:
+
+- Switch the bumper: use the 3° flexion bumper instead of neutral to slightly flex the knee in extension and improve clearance.
+- Adjust femoral component rotation: slight external rotation may aid patellar tracking.
+- Modify construct length/joint line:
+  - Change insert thickness by moving to a different bearing plate slot (thinner if the construct is too long).
+  - If still too long, shorten the construct by removing additional bone or adjusting prosthesis length; if femoral shortening worsens tracking, remove bone from the tibial side.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+What are the bumper and poly options in my construct?
+Answer: - Bumper options: Neutral (6481-2-130) or 3° flexion (6481-2-133). Trial bumpers: 6543-6-101/103.
+- Poly (tibial insert) options: Use the Triathlon Hinge Tibial Bearing Component, Size 1–2 (5612-0-001). Insert size must match the baseplate size, and thickness is selected based on the Trial Bearing Plate slots. The hinge insert is only used with the cemented Revision Baseplate.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+Is this a central femoral hinge or posterior consular hinge? Which has better quad efficiency and lower dislocation rate?
+Answer: Posterior condylar hinge. Posterior condylar designs generally provide better quadriceps efficiency and a lower dislocation rate than central femoral hinges.
+
+
+-----------------
+Question: Based on the document titled GMRS Distal Femur and Revision Baseplate Surgical Protocol from Stryker, answer this question:
+
+Is there an all poly tibial baseplate option if I wanted to use it as a spacer?
+Answer: No. The system uses the Triathlon Revision Tibial Baseplate; there is no all‑poly tibial baseplate option described for use as a spacer.
+
+

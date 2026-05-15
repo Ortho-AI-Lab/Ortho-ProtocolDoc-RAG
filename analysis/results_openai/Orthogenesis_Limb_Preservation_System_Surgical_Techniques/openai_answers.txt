@@ -1,0 +1,229 @@
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+How long is the distal femoral component?
+Answer: 13–23 cm (available in 13, 15, 17, 19, 21, and 23 cm lengths).
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+Is there a press fit or cementless option?
+Answer: The document does not indicate a press-fit/cementless option.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+How do you check rotation?
+Answer: - Distal femur: Use a straight edge/template to mark the anterior cortex above the resection in line with the trochlear groove (directly anterior to the linea aspera). During trialing/implantation, match the implant stem’s alignment mark to this cortex mark to confirm rotation.
+
+- Tibia: Attach the Revision Keel Punch Guide to the Universal Tibial Template and insert the Universal Alignment Rod to verify alignment. Optionally mark the anterior tibial surface and align those marks with the template’s engravings to reproduce the planned rotation.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What is the shortest construct I can use?
+Answer: 95 mm total (55 mm intercalary segment plus two 20 mm stem collar heights).
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What degree do I cut the tibia in?
+Answer: 0 degrees (neutral varus/valgus and zero posterior slope), perpendicular to the tibial mechanical axis.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What are the poly sizes?
+Answer: 10, 12.5, 15, 17.5, and 20 mm.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What is the minimum stem diameter?
+Answer: 8 mm
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What are the body segment lengths?
+Answer: 25, 30, 35, 40, 45, 65, 85, 105, and 125 mm (with 5 mm spacers for fine adjustments).
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What is the maximum stem diameter?
+Answer: 18.5 mm
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What are cone sizes?
+Answer: They’re designated by lettered sizes (e.g., A, B, C, …). Each successive size corresponds to an additional 5 mm of reamer depth; note that size A is not compatible with the Revision Baseplate.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What are the augment sizes on the tibia?
+Answer: Sizes 1 through 8 (with 5 mm and 10 mm thickness options).
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What’s the minimum total distal femur resection?
+Answer: 70 mm with the XX-small distal femoral replacement, or 80 mm with the X-small (both include the 20 mm stem collar height).
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+Is there a non-nickel containing option?
+Answer: The document does not specify a non‑nickel–containing option.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What is the tibial boss length and diameter?
+Answer: Tibial boss: 10 mm length and 19 mm diameter.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What is the minimum reamer I have to use on the femur and tibia?
+Answer: - Femur: Ream the canal to 2 mm larger than the chosen stem. With the smallest stem at 8 mm, the minimum reamer is 10 mm.
+- Tibia: Begin with the smallest diameter flexible reamer (8 mm), then increase in 0.5 mm increments to final size.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+Is there a distal femur resection guide for measurement?
+Answer: Yes. The system provides a Distal Femoral Resection Template (part no. 110018799) used to measure and mark the distal femoral resection length using engraved markings.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What is the valgus angle of the distal femoral cut?
+Answer: 6 degrees of valgus.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+If the knee does not fully extend, what are the steps we evaluate to change the construct?
+Answer: - Place the knee in extension and evaluate soft‑tissue tension.
+- Recheck femoral length against the pre‑resection measurement; change segmental trial lengths as needed.
+- Compare and correct the knee joint line height (level of the femoral component) to the contralateral side.
+- Assess and adjust anteversion, offset, and overall stability.
+- Fine‑tune leg length and offset using different femoral head lengths.
+- Adjust tibial insert polyethylene height to optimize stability and leg length.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+If the knee is too recurvatum in flexion and extension, what are the steps we evaluate to change the construct? What can we do with the bumper in this scenario?
+Answer: - Reassess the trial construct: at 90° flexion, distract and move the Hinge Trial Bearing Plate to a different slot to change insert thickness (thickness is chosen for leg length), then bring the knee to 0° to check the extension gap. Perform a trial reduction and evaluate patellar tracking.
+- If recurvatum persists, adjust the Trial Bumper angle. For the definitive construct, select the 3° flexion bumper (instead of neutral) to bias the knee into flexion and limit recurvatum.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+If the patella is laterally dislocating, what can be done to modify the tibia?
+Answer: Medialize the tibial tubercle (tibial tubercle transfer/osteotomy) to improve patellar tracking and prevent lateral dislocation.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What are the choices for the tibial component in the setting of a distal femur fracture? How do I decide which is the best option?
+Answer: - Choices:
+  - A: Short Non‑Modular Tibial Component
+  - B: Modular without a Stem
+  - C: Long Non‑Modular Tibial Component
+  - D: Modular with a Stem
+
+- How to decide:
+  - Size the tibial base to achieve the best tibial plateau coverage without overhang and set appropriate external rotation (use a tibial sled for A or B).
+  - Choose non‑stemmed options (A or B) when a short, non‑stemmed construct is appropriate.
+  - Use a stemmed construct when desired: D provides modularity with a stem (note the modular base plate has a larger distal diameter to accept the stem taper), while C provides a long, non‑modular option.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+If I can’t get diaphyseal fixation in the femur, what are the options?
+Answer: Options include:
+- Use a modular segmental endoprosthesis such as the Orthogenesis LPS for intercalary mid-shaft femoral replacement.
+- Segmental allograft with intramedullary rodding or plate-and-screw fixation.
+- Fill the defect with bone cement plus supplemental IM rod or plate-and-screw fixation.
+- Allograft–prosthetic composite.
+- Osteoarticular allograft.
+- Resection arthrodesis.
+- Rotationplasty.
+- Resection arthroplasty.
+- Amputation (if limb-sparing options are not feasible).
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+When should a distal femoral replacement be used or considered?
+Answer: When reconstruction of the distal femur is needed because of significant/severe bone loss—typically secondary to neoplasms (tumors), infection, massive trauma, or failed joint replacements.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What can I do with the distal femoral component if I can’t close the retinaculum?
+Answer: Posteriorize the distal femoral component (using the AP offset/eccentric coupler) to reduce extensor mechanism tension and facilitate retinacular closure.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+If I have patellar impingement on the mechanism, what are my choices to modify the construct?
+Answer: Options to modify the construct to address patellar impingement on the hinge/mechanism include:
+- Anteriorly offset the femoral segment (use an offset coupler) to increase patellar clearance from the mechanism.
+- Adjust component rotation and position to improve tracking/clearance (externally rotate the femoral segment; consider internal rotation/lateralization of the tibial component).
+- Modify patellar thickness/size (resect more bone, use a thinner or smaller patellar button, or perform patelloplasty; patellectomy as a last resort).
+- Adjust the joint line if modularity allows (change polyethylene/segment length or distal augments) to correct patella baja-related impingement.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+What are the bumper and poly options in my construct?
+Answer: - Bumper options: Standard (0 mm) and +5 mm extension bumper.
+- Poly options: Tibial polyethylene bearings in 2.5-mm increments, typically 10, 12.5, 15, 17.5, 20, 22.5, and 25 mm.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+Is this a central femoral hinge or posterior consular hinge? Which has better quad efficiency and lower dislocation rate?
+Answer: - The excerpt you provided doesn’t specify whether the LPS hinge is central femoral or posterior condylar.
+- In general, a posterior condylar hinge provides better quadriceps efficiency and a lower patellofemoral dislocation rate than a central femoral hinge.
+
+
+-----------------
+Question: Based on the document titled Orthogenesis Limb Preservation System Surgical Techniques from DePuy, answer this question:
+
+Is there an all poly tibial baseplate option if I wanted to use it as a spacer?
+Answer: No. The Orthogenesis LPS uses a metal tibial baseplate with a modular polyethylene insert; there isn’t an all‑poly tibial baseplate option to use as a spacer.
+
+
